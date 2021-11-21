@@ -79,7 +79,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
               <div class="modal-body">
-                 <form method="POST" action="" class="formulaire">
+                 <form method="POST" action="index.php" class="formulaire">
                     <div>
                         <label>Identifiant : </label>
                         <input type="text" name="identifiant" id="connection-identifiant" required>
@@ -89,20 +89,26 @@
                         <label>Mot de passe : </label>
                         <input type="password" name="password" id="connection-password" required>
                     </div>
+                    <div id="boutons-connection">
+                      <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">Valider</button>
+                      <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="connection-annuler">Annuler</button>
+                    </div>
                 </form>
               </div>
+              <!--
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="connection-annuler">Annuler</button>
                 <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Valider</button>
               </div>
+              -->
             </div>
           </div>
         </div>
       </section>
-      <?php
-
-      ?>
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
+    <?php
+      var_dump($_POST["identifiant"]);
+    ?>
   </body>
 </html>
