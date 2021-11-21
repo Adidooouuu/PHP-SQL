@@ -5,18 +5,18 @@
 **************/
 window.addEventListener("DOMContentLoaded", function () {
     // appel des elements HTML avec leur ID
-    var connection_identifiant = document.getElementById("connection-identifiant");
-    var connection_password = document.getElementById("connection-password");
-    var btn_connection_annuler = document.getElementById("connection-annuler");
+    var connexion_identifiant = document.getElementById("connexion-identifiant");
+    var connexion_password = document.getElementById("connexion-password");
+    var btn_connexion_annuler = document.getElementById("connexion-annuler");
 
     // mise en place de EventListener
-    btn_connection_annuler.addEventListener("click", funBtnConnectionAnnuler)
+    btn_connexion_annuler.addEventListener("click", funBtnConnexionAnnuler)
 
 
-    // fonction de du bouton annuler dans le form de connection
-    function funBtnConnectionAnnuler() {
-        connection_identifiant.value = "";
-        connection_password.value = "";
+    // fonction de du bouton annuler dans le form de connexion
+    function funBtnConnexionAnnuler() {
+        connexion_identifiant.value = "";
+        connexion_password.value = "";
     }
 
 });

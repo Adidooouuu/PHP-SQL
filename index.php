@@ -39,9 +39,7 @@
           <a class="nav-link" href="#contact">Contact</a>
         </li>
         <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-          Connection
-        </button>
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Connexion</button>
       </ul>
     </header>
 
@@ -83,32 +81,26 @@
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Connection</h5>
+                <h5 class="modal-title" id="exampleModalLabel">Connexion</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
               <div class="modal-body">
                  <form method="POST" action="index.php" class="formulaire">
                     <div>
                         <label>Identifiant : </label>
-                        <input type="text" name="identifiant" id="connection-identifiant" required>
+                        <input type="text" name="identifiant" id="connexion-identifiant" required>
                     </div>
                     <br>
                     <div>
                         <label>Mot de passe : </label>
-                        <input type="password" name="password" id="connection-password" required>
+                        <input type="password" name="password" id="connexion-password" required>
                     </div>
-                    <div id="boutons-connection">
+                    <div id="boutons-connexion">
                       <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">Valider</button>
-                      <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="connection-annuler">Annuler</button>
+                      <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="connexion-annuler">Annuler</button>
                     </div>
                 </form>
               </div>
-              <!--
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="connection-annuler">Annuler</button>
-                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Valider</button>
-              </div>
-              -->
             </div>
           </div>
         </div>
