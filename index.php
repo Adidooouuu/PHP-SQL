@@ -1,3 +1,11 @@
+<?php
+
+  ini_set("display_errors", "Off");
+  ini_set("log_errors", "On");
+  ini_set("error_log", dirname(__file__)."/logs/log_error_php.txt");
+
+?>
+
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
 
