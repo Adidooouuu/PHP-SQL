@@ -1,0 +1,37 @@
+*, 
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*common content*/
+
+html{
+  scroll-behavior: smooth;
+  margin-right: 5rem;
+  margin-left: 5rem;
+}
+
+body{
+  font-family: Arial, sans-serif;
+}
+
+section{
+  margin-right: 5rem;
+  margin-left: 5rem;
+}
+
+p{
+	margin-left: 20rem;
+	margin-right: 20rem;
+}
+
+/*Formulaire*/
+
+.formulaire{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
