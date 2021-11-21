@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <script src="assets/js/script.js"></script>
     <title>Association sportive</title>
   </head>
 
@@ -81,24 +82,26 @@
                  <form method="POST" action="" class="formulaire">
                     <div>
                         <label>Identifiant : </label>
-                        <input type="text" name="identifiant" required>
+                        <input type="text" name="identifiant" id="connection-identifiant" required>
                     </div>
                     <br>
                     <div>
                         <label>Mot de passe : </label>
-                        <input type="password" name="password" required>
+                        <input type="password" name="password" id="connection-password" required>
                     </div>
                 </form>
               </div>
               <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="connection-annuler">Annuler</button>
                 <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Valider</button>
               </div>
             </div>
           </div>
         </div>
       </section>
-      
+      <?php
+
+      ?>
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
   </body>
