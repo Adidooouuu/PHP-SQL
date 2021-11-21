@@ -10,7 +10,7 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-    <script src="assets/js/script.js"></script>
+    <script src="assets/js/script.js" type="text/javascript"></script>
     <title>Association sportive</title>
   </head>
 
@@ -105,23 +105,26 @@ session_start();
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
     <?php
+    // Je commente le code demain !!
     // On charge le fichier permettant de se connecter à la bdd
     include 'templates/connexion.php';
 
-    $requete = $bdd->query('SELECT * FROM categorie');
+    $requete = $bdd->query('SELECT * FROM president WHERE id = 1');
 
     while ($data = $requete->fetch()) {
-      if ($data) {
-        echo "Nom de la categorie : ".$data["nom_categorie"]."<br>";
+      if (!$data) {
+        echo 'La BDD n\'existe pas ou est vide.';
+        break;
       }
       else {
-        echo "La BDD n'existe pas ou est vide.";
+        $identifiant_pres = $data["identifiant_pres"];
+        $mdp_pres = $data["mdp_pres"];
       }
     }
 
     // ...
     if (!empty($_POST) && array_key_exists('identifiant', $_POST) && array_key_exists('password', $_POST) && is_string($_POST['identifiant']) && is_string($_POST['password'])) {
-      if ($_POST['identifiant'] === "etudiant" && $_POST['password'] === "cvtic") {
+      if ($_POST['identifiant'] === $identifiant_pres && $_POST['password'] === $mdp_pres) {
         $identifiant = htmlspecialchars($_POST["identifiant"]);
         $password = htmlspecialchars($_POST["password"]);
 
@@ -129,9 +132,7 @@ session_start();
           "identifiant" => $identifiant,
           "password" => $password
         ];
-      } 
-      else {
-        echo "c'est pas bon !";
+        echo "<script type='text/javascript'>window.location.replace('templates/espace_utilisateur.php');</script>";
       }
     }
     var_dump($_SESSION); 
