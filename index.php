@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
 
@@ -95,12 +98,6 @@
                     </div>
                 </form>
               </div>
-              <!--
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="connection-annuler">Annuler</button>
-                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Valider</button>
-              </div>
-              -->
             </div>
           </div>
         </div>
@@ -108,7 +105,37 @@
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
     <?php
-      var_dump($_POST["identifiant"]);
+    // On charge le fichier permettant de se connecter à la bdd
+    include 'templates/connexion.php';
+
+    $requete = $bdd->query('SELECT * FROM categorie');
+
+    while ($data = $requete->fetch()) {
+      if ($data) {
+        echo "Nom de la categorie : ".$data["nom_categorie"]."<br>";
+      }
+      else {
+        echo "La BDD n'existe pas ou est vide.";
+      }
+    }
+
+    // ...
+    if (!empty($_POST) && array_key_exists('identifiant', $_POST) && array_key_exists('password', $_POST) && is_string($_POST['identifiant']) && is_string($_POST['password'])) {
+      if ($_POST['identifiant'] === "etudiant" && $_POST['password'] === "cvtic") {
+        $identifiant = htmlspecialchars($_POST["identifiant"]);
+        $password = htmlspecialchars($_POST["password"]);
+
+        $_SESSION['log'] = [
+          "identifiant" => $identifiant,
+          "password" => $password
+        ];
+      } 
+      else {
+        echo "c'est pas bon !";
+      }
+    }
+    var_dump($_SESSION); 
+    var_dump($_POST);
     ?>
   </body>
 </html>
