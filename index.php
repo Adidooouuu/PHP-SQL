@@ -21,26 +21,28 @@
 
   <body>
 
-    <header>
-      <ul class="nav nav-pills nav-fill">
-        <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="#accueil">Accueil</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#historique">Historique</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#actualite">Actualité</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#equipe">Equipe</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact</a>
-        </li>
-        <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Connexion</button>
-      </ul>
+    <header class = "header">
+      <nav class = "nav">
+        <ul class="nav nav-pills nav-fill">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="#accueil">Accueil</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#historique">Historique</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#actualite">Actualité</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#equipe">Equipe</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contact">Contact</a>
+          </li>
+          <!-- Button trigger modal -->
+          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Connexion</button>
+        </ul>
+      </nav>
     </header>
 
     <main>
@@ -75,7 +77,7 @@
       </section>
 
       <section id="connection">
-        
+
         <!-- Modal -->
         <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog">

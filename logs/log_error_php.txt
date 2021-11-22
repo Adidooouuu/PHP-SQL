@@ -6,3 +6,114 @@
 [21-Nov-2021 15:32:29 UTC] PHP Stack trace:
 [21-Nov-2021 15:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
 >>>>>>> origin/main
+[22-Nov-2021 16:59:35 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 111
+[22-Nov-2021 16:59:35 UTC] PHP Stack trace:
+[22-Nov-2021 16:59:35 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 16:59:48 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 16:59:48 UTC] PHP Stack trace:
+[22-Nov-2021 16:59:48 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:00:35 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:00:35 UTC] PHP Stack trace:
+[22-Nov-2021 17:00:35 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:01:24 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:01:24 UTC] PHP Stack trace:
+[22-Nov-2021 17:01:24 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:01:29 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:01:29 UTC] PHP Stack trace:
+[22-Nov-2021 17:01:29 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:01:31 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:01:31 UTC] PHP Stack trace:
+[22-Nov-2021 17:01:31 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:04:53 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:04:53 UTC] PHP Stack trace:
+[22-Nov-2021 17:04:53 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:05:01 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:05:01 UTC] PHP Stack trace:
+[22-Nov-2021 17:05:01 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:06:49 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:06:49 UTC] PHP Stack trace:
+[22-Nov-2021 17:06:49 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:09:57 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:09:57 UTC] PHP Stack trace:
+[22-Nov-2021 17:09:57 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:10:42 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:10:42 UTC] PHP Stack trace:
+[22-Nov-2021 17:10:42 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:12:43 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:12:43 UTC] PHP Stack trace:
+[22-Nov-2021 17:12:43 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:13:00 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:13:00 UTC] PHP Stack trace:
+[22-Nov-2021 17:13:00 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:13:12 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:13:12 UTC] PHP Stack trace:
+[22-Nov-2021 17:13:12 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:21:28 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:21:28 UTC] PHP Stack trace:
+[22-Nov-2021 17:21:28 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:22:39 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:22:39 UTC] PHP Stack trace:
+[22-Nov-2021 17:22:39 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:23:41 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:23:41 UTC] PHP Stack trace:
+[22-Nov-2021 17:23:41 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:24:00 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:24:00 UTC] PHP Stack trace:
+[22-Nov-2021 17:24:00 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:24:08 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:24:08 UTC] PHP Stack trace:
+[22-Nov-2021 17:24:08 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:24:34 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:24:34 UTC] PHP Stack trace:
+[22-Nov-2021 17:24:34 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:24:43 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:24:43 UTC] PHP Stack trace:
+[22-Nov-2021 17:24:43 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:24:57 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:24:57 UTC] PHP Stack trace:
+[22-Nov-2021 17:24:57 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:25:04 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:25:04 UTC] PHP Stack trace:
+[22-Nov-2021 17:25:04 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:25:18 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:25:18 UTC] PHP Stack trace:
+[22-Nov-2021 17:25:18 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:25:49 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:25:49 UTC] PHP Stack trace:
+[22-Nov-2021 17:25:49 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:26:34 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:26:34 UTC] PHP Stack trace:
+[22-Nov-2021 17:26:34 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:27:19 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:27:19 UTC] PHP Stack trace:
+[22-Nov-2021 17:27:19 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:27:25 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:27:25 UTC] PHP Stack trace:
+[22-Nov-2021 17:27:25 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:27:35 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:27:35 UTC] PHP Stack trace:
+[22-Nov-2021 17:27:35 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:27:42 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:27:42 UTC] PHP Stack trace:
+[22-Nov-2021 17:27:42 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:28:21 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:28:21 UTC] PHP Stack trace:
+[22-Nov-2021 17:28:21 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:29:07 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:29:07 UTC] PHP Stack trace:
+[22-Nov-2021 17:29:07 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:29:31 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:29:31 UTC] PHP Stack trace:
+[22-Nov-2021 17:29:31 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:30:49 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:30:49 UTC] PHP Stack trace:
+[22-Nov-2021 17:30:49 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:32:02 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:32:02 UTC] PHP Stack trace:
+[22-Nov-2021 17:32:02 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:33:14 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:33:14 UTC] PHP Stack trace:
+[22-Nov-2021 17:33:14 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 17:33:31 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
+[22-Nov-2021 17:33:31 UTC] PHP Stack trace:
+[22-Nov-2021 17:33:31 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0

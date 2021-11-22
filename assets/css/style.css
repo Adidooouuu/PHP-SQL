@@ -1,4 +1,4 @@
-*, 
+*,
 *:after,
 *:before {
   margin: 0;
@@ -6,25 +6,56 @@
   box-sizing: border-box;
 }
 
+*:hover
+{
+  transition : all 0.5s;
+}
+
 /*common content*/
 
 html{
   scroll-behavior: smooth;
-  margin:  0;
 }
 
-body{
+body
+{
   font-family: Arial, sans-serif;
+  background-size: cover;
+  width: 100%;
+  min-height: 100vh;
 }
 
-header{
-  background-color: #FF9E00;
-  color: #FECD7C;
-  border-bottom: 1px solid #FECD7C;
+.header
+{
+  background: black url(../img/raquette.jpg) no-repeat 50% 50%;
+  background-size : cover;
   width: 100%;
-  position: fixed;
-  top: 0;
-  z-index: 2;
+  min-height: 100vh;
+  margin : auto;
+}
+
+.nav
+{
+  width : 100%;
+  background : #FF8E00;
+}
+
+.nav-link
+{
+  color : #FFFFFF;
+}
+
+.nav-link:hover
+{
+  color : #FFFFFF;
+  text-decoration: underline;
+}
+
+.btn-primary
+{
+  background : #FFFFFF;
+  color : #FF8E00;
+  border-style : none;
 }
 
 main{
@@ -32,19 +63,10 @@ main{
   padding-bottom: 2rem;
 }
 
-p{
-	margin-left: 20rem;
-	margin-right: 20rem;
-}
+
 
 /*Accueil*/
 
-.accueil{
-  background: black url(../img/raquette.jpg) no-repeat 50% 50%;
-  background-size: cover;
-  width: 100%;
-  height: 100%;
-}
 
 /*Formulaire*/
 
