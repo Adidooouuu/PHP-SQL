@@ -1,0 +1,8 @@
+[21-Nov-2021 15:57:54 Europe/Berlin] PHP Warning:  Undefined array key "identifiant" in C:\xampp\htdocs\219groupe2\index.php on line 119
+<<<<<<< HEAD
+[21-Nov-2021 17:02:03 Europe/Berlin] PHP Warning:  Undefined array key "identifiant" in C:\xampp\htdocs\219groupe2\index.php on line 119
+=======
+[21-Nov-2021 15:32:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 111
+[21-Nov-2021 15:32:29 UTC] PHP Stack trace:
+[21-Nov-2021 15:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+>>>>>>> origin/main
