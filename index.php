@@ -1,3 +1,11 @@
+<?php
+
+  ini_set("display_errors", "Off");
+  ini_set("log_errors", "On");
+  ini_set("error_log", dirname(__file__)."/logs/log_error_php.txt");
+
+?>
+
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
 
@@ -7,40 +15,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <script src="assets/js/script.js"></script>
     <title>Association sportive</title>
   </head>
 
   <body>
 
-    <section class="accueil" id="accueil">
-      
-      <header>
-        <ul class="nav nav-pills nav-fill">
-          <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#accueil">Accueil</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#historique">Historique</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#actualite">Actualité</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#equipe">Equipe</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#contact">Contact</a>
-          </li>
-          <!-- Button trigger modal -->
-          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-            Connexion
-          </button>
-        </ul>
-      </header>
-
-    </section>
+    <header>
+      <ul class="nav nav-pills nav-fill">
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="#accueil">Accueil</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#historique">Historique</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#actualite">Actualité</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#equipe">Equipe</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contact">Contact</a>
+        </li>
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Connexion</button>
+      </ul>
+    </header>
 
     <main>
+      <section id="accueil">
+        <h1>Section 1 : accueil</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.</p>
+        <hr>
+      </section>
 
       <section id="historique">
         <h1>Section2 : historique</h1>
@@ -77,28 +85,30 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
               <div class="modal-body">
-                 <form method="POST" action="" class="formulaire">
+                 <form method="POST" action="index.php" class="formulaire">
                     <div>
                         <label>Identifiant : </label>
-                        <input type="text" name="identifiant" required>
+                        <input type="text" name="identifiant" id="connexion-identifiant" required>
                     </div>
                     <br>
                     <div>
                         <label>Mot de passe : </label>
-                        <input type="password" name="password" required>
+                        <input type="password" name="password" id="connexion-password" required>
+                    </div>
+                    <div id="boutons-connexion">
+                      <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">Valider</button>
+                      <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="connexion-annuler">Annuler</button>
                     </div>
                 </form>
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
-                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Valider</button>
               </div>
             </div>
           </div>
         </div>
       </section>
-      
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
+    <?php
+      var_dump($_POST["identifiant"]);
+    ?>
   </body>
 </html>

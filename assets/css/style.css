@@ -53,3 +53,7 @@ p{
 	align-items: center;
 	flex-direction: column;
 }
+
+#boutons-connexion{
+  margin-top: 1rem;
+}
