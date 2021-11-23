@@ -87,20 +87,11 @@ main
   border-radius : 10px;
 }
 
-.nav_membre
-{
-  display : flex;
-}
-
-.btn-primary_membre
-{
-  align-items : flex-end;
-}
-
-
 /*Section Historique*/
+
 .main_centered
 {
+  max-width : 100rem;
   margin : 0 auto;
 }
 
@@ -136,13 +127,13 @@ flex-flow : column wrap;
 padding : 0 5rem;
 }
 
-.events, .connected_member
+.events
 {
   flex: 0 0 40%;
   max-width: 40%;
 }
 
-.news, .events_trainings_team_managment
+.news
 {
   flex: 0 0 60%;
   max-width: 60%;
@@ -166,25 +157,10 @@ padding : 0 5rem;
   line-height:  1rem;
 }
 
-.connected_member
-{
-  display : flex;
-  flex-flow : column wrap;
-}
+/*Section équipes*/
 
-.connected_member_picture img, .connected_member_data
-{
-  margin : 0 auto;
-}
-
-.connected_member_picture img
-{
-  width : 50%;
-}
-
-.connected_member_data
-{
-  text-align : center;
+.equipe{
+  flex-direction: column;
 }
 
 /*Formulaire*/
