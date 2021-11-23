@@ -22,11 +22,11 @@ session_start();
 
   <body>
 
-    <header class = "header" id="accueil">
+    <header class = "header">
       <nav class = "nav">
         <ul class="nav nav-pills nav-fill">
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#accueil">Accueil</a>
+            <a class="nav-link" aria-current="page" href="index.php">Accueil</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#historique">Historique</a>
@@ -47,63 +47,106 @@ session_start();
     </header>
 
     <main>
+      <div class="main_centered">
+        <section id="historique" class="flex">
+          <div class="img-placing">
+            <img src="assets/img/badminton_historique.jpg" alt="Joueur de badminton avec volant.">
+          </div>
+          <div class="text">
+            <div class="text-centering">
+              <h1>Notre histoire</h1>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.
+              </p>
+            </div>
+          </div>
+        </section>
 
-      <section id="historique">
-        <h1>Section2 : historique</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.</p>
-        <hr>
-      </section>
+        <section id="actualite" class="flex">
+          <div class="events">
+            <h1>Nos prochains événements</h1>
+            <div class="event">
+              <h2 class="event_title">Lorem ipsum dolor sit amet</h2>
+              <p class="event_location">Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia</p>
+              <p class="event_hour">15h00</p>
+              <p class="event_city">Id est laborum</p>
+              <hr>
+            </div>
+            <div class="event">
+              <h2 class="event_title">Lorem ipsum dolor sit amet</h2>
+              <p class="event_location">Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia</p>
+              <p class="event_hour">15h00</p>
+              <p class="event_city">Id est laborum</p>
+              <hr>
+            </div>
+            <div class="event">
+              <h2 class="event_title">Lorem ipsum dolor sit amet</h2>
+              <p class="event_location">Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia</p>
+              <p class="event_hour">15h00</p>
+              <p class="event_city">Id est laborum</p>
+              <hr>
+            </div>
+            <div class="event">
+              <h2 class="event_title">Lorem ipsum dolor sit amet</h2>
+              <p class="event_location">Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia</p>
+              <p class="event_hour">15h00</p>
+              <p class="event_city">Id est laborum</p>
+            </div>
+          </div>
+          <div class="news">
+            <h1>Nos actualités</h1>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.
+            </p>
+          </div>
+        </section>
 
-      <section id="actualite">
-        <h1>Section 3 : actualite</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.</p>
-        <hr>
-      </section>
+        <section id="equipe" class="flex">
+          <h1>Nos équipes</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.</p>
+          <hr>
+        </section>
 
-      <section id="equipe">
-        <h1>Section 4 : equipe</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.</p>
-        <hr>
-      </section>
+        <section id="contact" class="flex">
+          <h1>Nous contacter</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.</p>
+          <hr>
+        </section>
+      </div>
+    </main>
 
-      <section id="contact">
-        <h1>Section 5 : contact</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.</p>
-        <hr>
-      </section>
+    <section id="connection">
 
-      <section id="connection">
-
-        <!-- Modal -->
-        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Connexion</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-              </div>
-              <div class="modal-body">
-                 <form method="POST" action="index.php" class="formulaire">
-                    <div>
-                        <label>Identifiant : </label>
-                        <input type="text" name="identifiant" id="connexion-identifiant" required>
-                    </div>
-                    <br>
-                    <div>
-                        <label>Mot de passe : </label>
-                        <input type="password" name="password" id="connexion-password" required>
-                    </div>
-                    <div id="boutons-connexion">
-                      <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">Valider</button>
-                      <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="connexion-annuler">Annuler</button>
-                    </div>
-                </form>
-              </div>
+      <!-- Modal -->
+      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">Connexion</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+               <form method="POST" action="index.php" class="formulaire">
+                  <div>
+                      <label>Identifiant : </label>
+                      <input type="text" name="identifiant" id="connexion-identifiant" required>
+                  </div>
+                  <br>
+                  <div>
+                      <label>Mot de passe : </label>
+                      <input type="password" name="password" id="connexion-password" required>
+                  </div>
+                  <div id="boutons-connexion">
+                    <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">Valider</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="connexion-annuler">Annuler</button>
+                  </div>
+              </form>
             </div>
           </div>
         </div>
-      </section>
-    </main>
+      </div>
+    </section>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
     <?php
     // Je commente le code demain !!
@@ -136,7 +179,7 @@ session_start();
         echo "<script type='text/javascript'>window.location.replace('templates/espace_utilisateur.php');</script>";
       }
     }
-    var_dump($_SESSION); 
+    var_dump($_SESSION);
     var_dump($_POST);
     ?>
   </body>
