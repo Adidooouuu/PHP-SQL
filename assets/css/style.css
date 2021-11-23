@@ -25,6 +25,10 @@ body
   min-height: 100vh;
 }
 
+section{
+padding-top: 5rem;
+}
+
 img
 {
   display : block;
@@ -36,7 +40,12 @@ main
 {
   background-color: #f1f1f1;
   padding-bottom: 2rem;
+  padding-left: 5rem ;
+  padding-right: 5rem;
 }
+
+
+/*Accueil*/
 
 .header
 {
@@ -76,6 +85,8 @@ main
   border-radius : 10px;
 }
 
+/*Section Historique*/
+
 .main_centered
 {
   max-width : 100rem;
@@ -97,6 +108,8 @@ main
   flex: 0 0 50%;
   max-width: 50%;
 }
+
+/*Section événements*/
 
 .text-centering, .news
 {
@@ -122,10 +135,6 @@ padding : 0 5rem;
   display : flex;
   flex-flow : column wrap;
 }
-
-
-/*Accueil*/
-
 
 /*Formulaire*/
 
