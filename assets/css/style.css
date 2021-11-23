@@ -1,6 +1,7 @@
 *,
 *:after,
-*:before {
+*:before 
+{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -13,7 +14,8 @@
 
 /*common content*/
 
-html{
+html
+{
   scroll-behavior: smooth;
 }
 
@@ -25,7 +27,8 @@ body
   min-height: 100vh;
 }
 
-section{
+section
+{
 padding-top: 5rem;
 }
 
@@ -39,7 +42,6 @@ img
 main
 {
   background-color: #f1f1f1;
-  padding-bottom: 2rem;
   padding-left: 5rem ;
   padding-right: 5rem;
 }
@@ -105,8 +107,15 @@ main
 
 .img-placing, .text
 {
-  flex: 0 0 50%;
+  flex: 0 0 45%;
   max-width: 50%;
+}
+
+.text
+{
+  background-color: #fff;
+  padding: 2rem;
+  margin-left:  1rem;
 }
 
 /*Section événements*/
@@ -128,12 +137,24 @@ padding : 0 5rem;
 {
   flex: 0 0 60%;
   max-width: 60%;
+  background-color: #fff;
+  margin-top: 1rem;
+  padding:  2rem;
+  border: 2px solid #000;
+  border-radius: 2rem;
 }
 
 .event
 {
   display : flex;
   flex-flow : column wrap;
+  background-color: #fff;
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 2px solid #000;
+  border-radius: 2rem;
+  margin-right: 1rem;
+  line-height:  1rem;
 }
 
 /*Formulaire*/
