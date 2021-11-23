@@ -1,6 +1,6 @@
 *,
 *:after,
-*:before 
+*:before
 {
   margin: 0;
   padding: 0;
@@ -42,11 +42,8 @@ img
 main
 {
   background-color: #f1f1f1;
-<<<<<<< HEAD
-=======
   padding-left: 5rem ;
   padding-right: 5rem;
->>>>>>> 3ac1206388d2e8b5553d22eaaeae285d6b20738f
 }
 
 
