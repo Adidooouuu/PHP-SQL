@@ -157,6 +157,12 @@ padding : 0 5rem;
   line-height:  1rem;
 }
 
+/*Section équipes*/
+
+.equipe{
+  flex-direction: column;
+}
+
 /*Formulaire*/
 
 .formulaire{

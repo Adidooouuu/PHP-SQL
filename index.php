@@ -92,10 +92,68 @@ session_start();
           </div>
         </section>
 
-        <section id="equipe" class="flex">
-          <h1>Nos équipes</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.</p>
-          <hr>
+        <section class="nos-equipes">
+          <h1 id="equipe-a">Nos équipes</h1>
+          <div class="equipe">
+            <h3 class="titre-equipe">Equipe A</h3>
+            <h4 class="nom-entraineur">Entraîneur</h4>
+            <div class="joueurs">
+              <div class="joueur-1">
+                <div class="binome">
+                  <h5>Binôme 1</h5>
+                  <p>Joueur 1</p>
+                  <p>Joueur 2</p>
+                </div>
+                <div class="binome">
+                  <h5>Binôme 2</h5>
+                  <p>Joueur 3</p>
+                  <p>Joueur 4</p>
+                </div>
+              </div>
+              <div class="joueur-2">
+                <div class="binome">
+                  <h5>Binôme 3</h5>
+                  <p>Joueur 5</p>
+                  <p>Joueur 6</p>
+                </div>
+                <div class="binome">
+                  <h5>Binôme 4</h5>
+                  <p>Joueur 7</p>
+                  <p>Joueur 8</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="equipe-b">
+            <h3 class="titre-equipe">Equipe B</h3>
+            <h4 class="nom-entraineur">Entraîneur</h4>
+            <div class="joueurs">
+              <div class="joueur-1">
+                <div class="binome">
+                  <h5>Binôme 1</h5>
+                  <p>Joueur 1</p>
+                  <p>Joueur 2</p>
+                </div>
+                <div class="binome">
+                  <h5>Binôme 2</h5>
+                  <p>Joueur 3</p>
+                  <p>Joueur 4</p>
+                </div>
+              </div>
+              <div class="joueur-2">
+                <div class="binome">
+                  <h5>Binôme 3</h5>
+                  <p>Joueur 5</p>
+                  <p>Joueur 6</p>
+                </div>
+                <div class="binome">
+                  <h5>Binôme 4</h5>
+                  <p>Joueur 7</p>
+                  <p>Joueur 8</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </section>
 
         <section id="contact" class="flex">
