@@ -117,3 +117,7 @@
 [22-Nov-2021 17:33:31 UTC] PHP Notice:  Undefined index: identifiant in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 113
 [22-Nov-2021 17:33:31 UTC] PHP Stack trace:
 [22-Nov-2021 17:33:31 UTC] PHP   1. {main}() D:\wamp64\www\testmonsite\PHP-SQL\index.php:0
+[22-Nov-2021 18:11:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in D:\wamp64\www\testmonsite\PHP-SQL\index.php:120
+Stack trace:
+#0 {main}
+  thrown in D:\wamp64\www\testmonsite\PHP-SQL\index.php on line 120
