@@ -48,9 +48,9 @@ session_start();
 
     <main>
       <div class="main_centered">
-        <section id="historique" class="flex">
+        <section class="flex">
           <div class="img-placing">
-            <img src="assets/img/badminton_historique.jpg" alt="Joueur de badminton avec volant.">
+            <img src="assets/img/badminton_historique.jpg" alt="Joueur de badminton avec volant." id="historique">
           </div>
           <div class="text">
             <div class="text-centering">
@@ -62,29 +62,20 @@ session_start();
           </div>
         </section>
 
-        <section id="actualite" class="flex">
+        <section class="flex">
           <div class="events">
-            <h1>Nos prochains événements</h1>
+            <h1 id="actualite">Nos prochains événements</h1>
             <div class="event">
               <h2 class="event_title">Lorem ipsum dolor sit amet</h2>
               <p class="event_location">Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia</p>
               <p class="event_hour">15h00</p>
               <p class="event_city">Id est laborum</p>
-              <hr>
             </div>
             <div class="event">
               <h2 class="event_title">Lorem ipsum dolor sit amet</h2>
               <p class="event_location">Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia</p>
               <p class="event_hour">15h00</p>
               <p class="event_city">Id est laborum</p>
-              <hr>
-            </div>
-            <div class="event">
-              <h2 class="event_title">Lorem ipsum dolor sit amet</h2>
-              <p class="event_location">Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia</p>
-              <p class="event_hour">15h00</p>
-              <p class="event_city">Id est laborum</p>
-              <hr>
             </div>
             <div class="event">
               <h2 class="event_title">Lorem ipsum dolor sit amet</h2>
