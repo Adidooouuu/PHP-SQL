@@ -50,7 +50,7 @@ session_start();
       <div class="main_centered">
         <section class="flex">
           <div class="img-placing">
-            <img src="assets/img/badminton_historique.jpg" alt="Joueur de badminton avec volant." id="historique">
+            <img src="assets/img/badminton_historique.jpg" alt="Joueur de badminton avec volant." id="historique" class="nav-fix-40">
           </div>
           <div class="text">
             <div class="text-centering">
@@ -64,7 +64,7 @@ session_start();
 
         <section class="flex">
           <div class="events">
-            <h1 id="actualite">Nos prochains événements</h1>
+            <h1 id="actualite" class="nav-fix-40">Nos prochains événements</h1>
             <div class="event">
               <h2 class="event_title">Lorem ipsum dolor sit amet</h2>
               <p class="event_location">Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia</p>
@@ -94,7 +94,7 @@ session_start();
 
         <section class="nos-equipes">
           <div class="position-equipe">
-            <h1 id="equipe-titre">Nos équipes</h1>
+            <h1 id="equipe-titre" class="nav-fix-40">Nos équipes</h1>
             <div class="equipes">
               <div class="equipe-a">
                 <h3 class="titre-equipe">Equipe A</h3>
@@ -136,7 +136,7 @@ session_start();
           </div>
         </section>
 
-        <section id="contact" class="flex">
+        <section id="contact" class="flex nav-fix-40">
           <h1>Nous contacter</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.</p>
           <hr>

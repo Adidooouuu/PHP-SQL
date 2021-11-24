@@ -46,6 +46,12 @@ main
   padding-right: 5rem;
 }
 
+/*Global index*/
+
+.nav-fix-40{
+  padding-top: 40px;
+  margin-top: -40px;
+}
 
 /*Accueil*/
 
