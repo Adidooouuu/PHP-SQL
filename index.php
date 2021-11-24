@@ -35,7 +35,7 @@ session_start();
             <a class="nav-link" href="#actualite">Actualité</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#equipe">Equipe</a>
+            <a class="nav-link" href="#equipe-titre">Equipe</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#contact">Contact</a>
