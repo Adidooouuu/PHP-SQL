@@ -101,28 +101,10 @@ session_start();
                 <h4 class="nom-entraineur">Entraîneur</h4>
                 <div class="joueurs">
                   <div class="joueur-1">
-                    <div class="binome">
-                      <h5>Binôme 1</h5>
                       <p>Joueur 1</p>
-                      <p>Joueur 2</p>
-                    </div>
-                    <div class="binome">
-                      <h5>Binôme 2</h5>
-                      <p>Joueur 3</p>
-                      <p>Joueur 4</p>
-                    </div>
                   </div>
                   <div class="joueur-2">
-                    <div class="binome">
-                      <h5>Binôme 3</h5>
-                      <p>Joueur 5</p>
-                      <p>Joueur 6</p>
-                    </div>
-                    <div class="binome">
-                      <h5>Binôme 4</h5>
-                      <p>Joueur 7</p>
-                      <p>Joueur 8</p>
-                    </div>
+                    <p>Joueur 2</p>
                   </div>
                 </div>
               </div>
@@ -131,28 +113,22 @@ session_start();
                 <h4 class="nom-entraineur">Entraîneur</h4>
                 <div class="joueurs">
                   <div class="joueur-1">
-                    <div class="binome">
-                      <h5>Binôme 1</h5>
-                      <p>Joueur 1</p>
-                      <p>Joueur 2</p>
-                    </div>
-                    <div class="binome">
-                      <h5>Binôme 2</h5>
-                      <p>Joueur 3</p>
-                      <p>Joueur 4</p>
-                    </div>
+                    <p>Joueur 1</p>
                   </div>
                   <div class="joueur-2">
-                    <div class="binome">
-                      <h5>Binôme 3</h5>
-                      <p>Joueur 5</p>
-                      <p>Joueur 6</p>
-                    </div>
-                    <div class="binome">
-                      <h5>Binôme 4</h5>
-                      <p>Joueur 7</p>
-                      <p>Joueur 8</p>
-                    </div>
+                    <p>Joueur 2</p>
+                  </div>
+                </div>
+              </div>
+              <div class="equipe-c">
+                <h3 class="titre-equipe">Equipe C</h3>
+                <h4 class="nom-entraineur">Entraîneur</h4>
+                <div class="joueurs">
+                  <div class="joueur-1">
+                      <p>Joueur 1</p>
+                  </div>
+                  <div class="joueur-2">
+                    <p>Joueur 2</p>
                   </div>
                 </div>
               </div>

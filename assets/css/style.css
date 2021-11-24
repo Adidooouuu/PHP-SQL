@@ -188,6 +188,7 @@ padding : 0 5rem;
 }
 
 /*Section equipe*/
+
 .nos-equipes{
   display: flex;
   justify-content: center;
@@ -208,23 +209,16 @@ padding : 0 5rem;
   flex-wrap: nowrap;
 }
 
-.equipe-a, .equipe-b{
-  flex-basis: 50%;
-  padding-left: 10rem;
-  padding-right: 10rem;
+.equipe-a, .equipe-b, .equipe-c{
+  flex-basis: 33%;
+  padding-left: 5rem;
+  padding-right: 5rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #fff;
   border-radius: 2rem;
   box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
-}
-
-.equipe-a{
-  margin-right: 2.5rem;
-}
-
-.equipe-b{
-  margin-left: 2.5rem;
+  margin-left: 5rem;
 }
 
 .joueurs{
