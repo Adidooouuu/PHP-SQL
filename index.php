@@ -201,38 +201,97 @@ session_start();
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
     <?php
-    // Je commente le code demain !!
+
+    // GESTION DE LA CONNEXION A L'ESPACE UTILISATEUR
+
     // On charge le fichier permettant de se connecter à la bdd
     include 'templates/connexion.php';
 
-    $requete = $bdd->query('SELECT * FROM president WHERE id = 1');
+    // une requête par table d'utilisateurs dans la BDD (on récupère chaque table en entier)
+    $requete_pres = $bdd->query('SELECT * FROM president');
+    $requete_ent = $bdd->query('SELECT * FROM entraineur');
+    $requete_joueur = $bdd->query('SELECT * FROM joueur');
 
-    while ($data = $requete->fetch()) {
+    // on crée un tableau vide d'identifiants et un tableau vide de mdps
+    $identifiants = array();
+    $mdps = array();
+
+    // on parcourt la table president
+    while ($data = $requete_pres->fetch()) {
+      // si pas de données dans la table...
       if (!$data) {
-        echo 'La BDD n\'existe pas ou est vide.';
+        // message d'erreur
+        echo 'La liste des présidents n\'existe pas ou est vide.';
         break;
       }
       else {
-        $identifiant_pres = $data["identifiant_pres"];
-        $mdp_pres = $data["mdp_pres"];
+        // sinon on récupère tous les identifiants et mdp dans les tableaux appropriés
+        array_push($identifiants, $data["identifiant_pres"]);
+        array_push($mdps, $data["mdp_pres"]);
       }
     }
 
-    // ...
-    if (!empty($_POST) && array_key_exists('identifiant', $_POST) && array_key_exists('password', $_POST) && is_string($_POST['identifiant']) && is_string($_POST['password'])) {
-      if ($_POST['identifiant'] === $identifiant_pres && $_POST['password'] === $mdp_pres) {
-        $identifiant = htmlspecialchars($_POST["identifiant"]);
-        $password = htmlspecialchars($_POST["password"]);
+    // même histoire avec les entraîneurs et joueurs...
 
-        $_SESSION['log'] = [
-          "identifiant" => $identifiant,
-          "password" => $password
-        ];
-        echo "<script type='text/javascript'>window.location.replace('templates/espace_utilisateur.php');</script>";
+    while ($data = $requete_ent->fetch()) {
+      if (!$data) {
+        echo 'La liste des entraîneurs n\'existe pas ou est vide.';
+        break;
+      }
+      else {
+        array_push($identifiants, $data["identifiant_ent"]);
+        array_push($mdps, $data["mdp_ent"]);
       }
     }
-    var_dump($_SESSION);
-    var_dump($_POST);
+
+    while ($data = $requete_joueur->fetch()) {
+      if (!$data) {
+        echo 'La liste des joueurs n\'existe pas ou est vide.';
+        break;
+      }
+      else {
+        array_push($identifiants, $data["identifiant_joueur"]);
+        array_push($mdps, $data["mdp_joueur"]);
+      }
+    }
+
+    // variables permettant de récupérer l'identifiant et le mdp saisis par l'utilisateur
+    $identifiant_utilisateur = null;
+    $password_utilisateur = null;
+
+    // on parcourt notre tableau d'identifiants précédemment récupérés
+    for ($i = 0; $i < count($identifiants); $i++) {
+      // si on n'a pas encore récupéré la saisie de l'utilisateur, et que sa saisie est bien existante et sous forme de chaine...
+      if (($identifiant_utilisateur === null || $password_utilisateur === null) && !empty($_POST) && array_key_exists('identifiant', $_POST) && array_key_exists('password', $_POST) && is_string($_POST['identifiant']) && is_string($_POST['password'])) {
+        // si la saisie de l'utilisateur correspond à un couple identifiant / mdp issu de la BDD...
+        if ($_POST['identifiant'] === $identifiants[$i] && $_POST['password'] === $mdps[$i]) {
+          // on récupère la saisie
+          $identifiant_utilisateur = htmlspecialchars($_POST["identifiant"]);
+          $password_utilisateur = htmlspecialchars($_POST["password"]);
+          // on déclare 2 variables de session
+          $_SESSION['log'] = [
+            "identifiant" => $identifiant_utilisateur,
+            "password" => $password_utilisateur
+          ];
+          // on redirige l'utilisateur vers l'espace utilisateur
+          echo "<script type='text/javascript'>window.location.replace('templates/espace_utilisateur.php');</script>";
+        }
+      }
+    }
+
+    // TODO
+    // 
+    // si l'utilisateur est déjà connecté, il faudrait remplacer le bouton "connexion" par "espace utilisateur" sur la page d'accueil
+    // (en l'état, il est possible de se reconnecter alors qu'on l'est déjà...)
+    // 
+    // il faudrait envoyer vers la page "espace_utilisateur" une information concernant le type d'utilisateur connecté :
+    // president, entraineur, joueur
+    // pour pouvoir personnaliser l'affichage de l'espace utilisateur
+    // peut-être en variable de session ?
+    // quoiqu'il y a déjà l'identifiant et le mot de passe en variable de session, peut-être que ça peut être exploité en ce sens ?
+    // 
+    // afficher des erreurs en cas de saisie incorrecte du formulaire de connexion (dans la fenêtre modale)
+
     ?>
   </body>
 </html>
