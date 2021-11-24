@@ -110,6 +110,63 @@
             </form>
           </div>
         </div>
+
+        <section id="entraineur">
+
+          <form class="form_team_management" action="espace_utilisateur.php" method="post">
+            <fieldset>
+              <legend>Gestion de l'équipe</legend>
+              <div class="nom_equipe">
+                <label for="nom_equipe">Nom de l'équipe : </label>
+                <input type="text" name="nom_equipe" id="nom_equipe">
+              </div>
+              <div class="categorie">
+                <label for="categorie">Catégorie : </label>
+                <select class="categorie" name="categorie" id="categorie">
+                  <option value="">&nbsp;</option>
+                  <option value="minibad">MiniBad</option>
+                  <option value="poussins">Poussins</option>
+                  <option value="benjamins">Benjamins</option>
+                  <option value="minimes">Minimes</option>
+                  <option value="cadets">Cadets</option>
+                  <option value="juniors">Juniors</option>
+                  <option value="seniors">Seniors</option>
+                  <option value="veteran_1">Vétéran 1</option>
+                  <option value="veteran_2">Vétéran 2</option>
+                  <option value="veteran_3">Vétéran 3</option>
+                  <option value="veteran_4">Vétéran 4</option>
+                  <option value="veteran_6">Vétéran 6</option>
+                  <option value="veteran_7">Vétéran 7</option>
+                  <option value="veteran_8">Vétéran 8</option>
+                </select>
+              </div>
+              <div class="joueur_1">
+                <label for="joueur_1">Joueur 1 : </label>
+                <select class="joueur_1" name="joueur_1" id="joueur_1">
+                  <option value="">&nbsp;</option>
+                  <option value="identifiant_joueur_1">Joueur 1</option>
+                  <option value="identifiant_joueur_2">Joueur 2</option>
+                  <option value="identifiant_joueur_3">Joueur 3</option>
+                  <option value="identifiant_joueur_4">Joueur 4</option>
+                </select>
+              </div>
+              <div class="joueur_2">
+                <label for="joueur_2">Joueur 2 : </label>
+                <select class="joueur_2" name="joueur_2" id="joueur_2">
+                  <option value="">&nbsp;</option>
+                  <option value="identifiant_joueur_1">Joueur 1</option>
+                  <option value="identifiant_joueur_2">Joueur 2</option>
+                  <option value="identifiant_joueur_3">Joueur 3</option>
+                  <option value="identifiant_joueur_4">Joueur 4</option>
+                </select>
+              </div>
+              <button class="button" type="submit" name="button">Modifier l'équipe</button>
+              <p class="avertissements">Aucun champs n'est obligatoire</p>
+            </fieldset>
+          </form> 
+
+        </section>
+
       </div>
     </main>
   </body>
