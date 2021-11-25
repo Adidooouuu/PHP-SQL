@@ -117,7 +117,6 @@ session_start();
                     </div>
                   </div>
                 </div>
-
                 ';
               }
 
@@ -125,6 +124,7 @@ session_start();
               
             </div>
           </div>
+          <button id="bouton-plus-equipe" type="button">Voir plus</button>
         </section>
 
         <section id="contact" class="flex nav-fix-40">
