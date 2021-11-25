@@ -30,86 +30,6 @@
             </div>
           </div>
         </div>
-        <div class="events_trainings_team_managment">
-          <div class="personal_events">
-            <form class="form_events" action="espace_utilisateur.php" method="post">
-              <fieldset>
-                <legend>Création d'événement</legend>
-                <label for="team_selection_event">Sélection de l'équipe* : </label>
-                <select class="team_selection" name="team_selection" id="team_selection_event" required>
-                  <option value="">&nbsp;</option>
-                  <option value="les_bg">Les BG</option>
-                  <option value="les_boss">Les BOSS</option>
-                </select>
-                <div class="event_time">
-                  <label for="event_time">Date et heure de l'événement* : </label>
-                  <input type="datetime-local" name="event_time" id="event_time" value="" required>
-                </div>
-                <div class="event_location">
-                  <label for="event_place">Lieu* : </label>
-                  <input type="text" name="event_place" value="" id="event_place" placeholder="Stade [...], Ville" required>
-                </div>
-              </fieldset>
-              <button type="submit" name="button">Ajouter l'événement</button>
-            </form>
-          </div>
-          <div class="personal_trainings">
-            <form class="form_training" action="espace_utilisateur.php" method="post">
-              <fieldset>
-                <legend>Création d'entrainement</legend>
-                <p>Sélection de l'équipe* : </p>
-                <div class="checkboxes">
-                  <div class="checkbox">
-                    <input type="checkbox" name="les_bg_training" value="les_bg_training" id="les_bg_training">
-                    <label for="les_bg_training">Les BG</label>
-                  </div>
-                  <div class="checkbox">
-                    <input type="checkbox" name="les_boss_training" value="les_boss_training" id="les_boss_training">
-                    <label for="les_boss_training">Les BOSS</label>
-                  </div>
-                </div>
-                <div class="training_time">
-                  <label for="training_time">Date et heure de l'entrainement* : </label>
-                  <input type="datetime-local" name="training_time" id="training_time" value="" required>
-                </div>
-                <div class="event_location">
-                  <label for="place_training">Lieu* : </label>
-                  <input type="text" name="place" value="" id="place_training" placeholder="Stade [...], Ville" required>
-                </div>
-              </fieldset>
-              <button type="submit" name="button">Ajouter l'entrainement</button>
-            </form>
-          </div>
-          <div class="team_management">
-            <form class="form_team_management" action="espace_utilisateur.php" method="post">
-              <fieldset>
-                <legend>Gestion de l'équipe</legend>
-                <label for="team_management_selection">Sélection de l'équipe à gérer* : </label>
-                <select class="team_management_selection" name="team_management_selection" id="team_management_selection" required>
-                  <option value="">&nbsp;</option>
-                  <option value="les_bg">Les BG</option>
-                  <option value="les_boss">Les BOSS</option>
-                </select>
-                <p>Action* : </p>
-                <div class="checkboxes" required>
-                  <div class="checkbox">
-                    <input type="checkbox" name="add_player" value="add_player" id="add_player">
-                    <label for="add_player">Ajouter un joueur</label>
-                  </div>
-                  <div class="checkbox">
-                    <input type="checkbox" name="remove_player" value="remove_player" id="remove_player">
-                    <label for="remove_player">Retirer un joueur</label>
-                  </div>
-                  <div class="checkbox">
-                    <input type="checkbox" name="modify_player" value="modify_player" id="modify_player">
-                    <label for="modify_player">Modifier un joueur</label>
-                  </div>
-                </div>
-              </fieldset>
-              <button type="submit" name="button">Modifier l'équipe</button>
-            </form>
-          </div>
-        </div>
 
         <section id="entraineur">
 
@@ -168,7 +88,7 @@
         </section>
 
         <section id="president">
-          <div class="gestion_equipe_president">
+          
             <form class="form_president" action="espace_utilisateur.php" method="post">
               <fieldset>
                 <legend>Gestion de l'équipe</legend>
@@ -216,7 +136,100 @@
                 <p class="avertissements">Aucun champs n'est obligatoire</p>
               </fieldset>
             </form> 
-          </div>
+
+            <div class="formulaire_ajout_retrait_joueur">
+              <form action="espace_utilisateur.php" method="post">
+                <fieldset>
+                  <legend>Ajout de joueur</legend>
+                  <div class="nom_joueur">
+                    <label for="nom_joueur">Nom<span class="red">*</span> : </label>
+                    <input type="text" name="nom_joueur" id="nom_joueur" required>
+                  </div>
+                  <div class="prenom_joueur">
+                    <label for="prenom_joueur">Prénom<span class="red">*</span> : </label>
+                    <input type="text" name="prenom_joueur" id="prenom_joueur" required>
+                  </div>
+                  <div class="age">
+                    <label for="age">Age<span class="red">*</span> : </label>
+                    <input type="text" name="age" id="age" required>
+                  </div>
+                  <div class="identifiant_connexion">
+                    <label for="identifiant_connexion">Attribuer un identifiant de connexion<span class="red">*</span> : </label>
+                    <input type="text" name="identifiant_connexion" id="identifiant_connexion" required>
+                  </div>
+                  <div class="mot_de_passe">
+                    <label for="mot_de_passe">Attribuer un mot de passe<span class="red">*</span> : </label>
+                    <input type="password" name="mot_de_passe" id="mot_de_passe" required>
+                  </div>
+                  <button class="button" type="submit" name="button">Ajouter le joueur</button>
+                </fieldset>
+              </form>
+              <form action="espace_utilisateur.php" method="post">
+                <fieldset>
+                  <legend>Retrait de joueur</legend>
+                  <div class="joueur">
+                    <label for="joueur">Nom du joueur<span class="red">*</span> : </label>
+                    <select class="joueur" name="joueur" id="joueur" required>
+                      <option value="">&nbsp;</option>
+                      <option value="nom_joueur_1">Joueur 1</option>
+                      <option value="nom_joueur_2">Joueur 2</option>
+                      <option value="nom_joueur_3">Joueur 3</option>
+                      <option value="nom_joueur_4">Joueur 4</option>
+                    </select>
+                  </div>
+                  <div class="mot_de_passe_president">
+                    <label for="mot_de_passe_president">Mot de passe "Président"<span class="red">*</span> : </label>
+                    <input type="password" name="mot_de_passe_president" id="mot_de_passe_president" required>
+                  </div>
+                  <button class="button" type="submit" name="button">Supprimer le joueur</button>
+                </fieldset>
+              </form>
+            </div> 
+
+            <div class="formulaire_ajout_retrait_entraineur">
+              <form action="espace_utilisateur.php" method="post">
+                <fieldset>
+                  <legend>Ajout d'entraineur</legend>
+                  <div class="nom_entraineur">
+                    <label for="nom_entraineur">Nom<span class="red">*</span> : </label>
+                    <input type="text" name="nom_entraineur" id="nom_entraineur" required>
+                  </div>
+                  <div class="prenom_entraineur">
+                    <label for="prenom_entraineur">Prénom<span class="red">*</span> : </label>
+                    <input type="text" name="prenom_entraineur" id="prenom_entraineur" required>
+                  </div>
+                  <div class="identifiant_connexion_entraineur">
+                    <label for="identifiant_connexion_entraineur">Attribuer un identifiant de connexion<span class="red">*</span> : </label>
+                    <input type="text" name="identifiant_connexion_entraineur" id="identifiant_connexion_entraineur" required>
+                  </div>
+                  <div class="mot_de_passe_entraineur">
+                    <label for="mot_de_passe_entraineur">Attribuer un mot de passe<span class="red">*</span> : </label>
+                    <input type="password" name="mot_de_passe_entraineur" id="mot_de_passe_entraineur" required>
+                  </div>
+                  <button class="button" type="submit" name="button">Ajouter l'entraineur</button>
+                </fieldset>
+              </form>
+              <form action="espace_utilisateur.php" method="post">
+                <fieldset>
+                  <legend>Retrait d'entraineur</legend>
+                  <div class="entraineur">
+                    <label for="entraineur">Nom de l'entraineur<span class="red">*</span> : </label>
+                    <select class="entraineur" name="entraineur" id="nom_de_l_entraineur" required>
+                      <option value="">&nbsp;</option>
+                      <option value="nom_entraineur_1">entraineur 1</option>
+                      <option value="nom_entraineur_2">entraineur 2</option>
+                      <option value="nom_entraineur_3">entraineur 3</option>
+                      <option value="nom_entraineur_4">entraineur 4</option>
+                    </select>
+                  </div>
+                  <div class="mot_de_passe_president">
+                    <label for="mot_de_passe_president">Mot de passe "Président"<span class="red">*</span> : </label>
+                    <input type="password" name="mot_de_passe_president" id="mot_de_passe_president_suppression_entraineur" required>
+                  </div>
+                  <button class="button" type="submit" name="button">Supprimer l'entraineur</button>
+                </fieldset>
+              </form>
+            </div> 
         </section>
 
       </div>
