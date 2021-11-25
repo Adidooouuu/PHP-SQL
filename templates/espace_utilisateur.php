@@ -88,7 +88,7 @@
         </section>
 
         <section id="president">
-          
+
             <form class="form_president" action="espace_utilisateur.php" method="post">
               <fieldset>
                 <legend>Gestion de l'équipe</legend>
@@ -192,7 +192,7 @@
                   <legend>Ajout d'entraineur</legend>
                   <div class="nom_entraineur">
                     <label for="nom_entraineur">Nom<span class="red">*</span> : </label>
-                    <input type="text" name="nom_entraineur" id="nom_entraineur" required>
+                    <input type="text" name="nom_entraineur" id="nom_entraineur_ajout" required>
                   </div>
                   <div class="prenom_entraineur">
                     <label for="prenom_entraineur">Prénom<span class="red">*</span> : </label>
