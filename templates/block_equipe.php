@@ -30,7 +30,7 @@
         else {
             
             $tableau_nom_equipe[] = [
-                "nom_entraineur" => "Pas d'entraineur",
+                "nom_entraineur" => "Pas d'entraîneur",
                 "nom_equipe" => $data["nom_equipe"]
             ];
         }

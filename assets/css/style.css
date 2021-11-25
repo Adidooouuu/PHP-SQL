@@ -218,13 +218,12 @@ padding : 0 5rem;
 .equipes{
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 
 .equipe{
   flex-basis: 15%;
-  padding-left: 5rem;
-  padding-right: 5rem;
+  min-width: 25rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   margin: .5rem;
@@ -234,7 +233,13 @@ padding : 0 5rem;
 }
 
 .joueurs{
+  position: relative;
   display: flex;
+  justify-content: center;
+}
+
+.joueurs:hover .info-bulle{
+  visibility: visible;
 }
 
 .joueur-1{
@@ -247,6 +252,43 @@ padding : 0 5rem;
 .joueur-2{
   white-space: nowrap;
   margin-left: 1rem;
+}
+
+.titre-equipe{
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.titre-equipe:hover .info-bulle{
+  visibility: visible;
+}
+
+.nom-entraineur{
+  position: relative;
+  font-size: 1.2rem;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.nom-entraineur:hover .info-bulle{
+  visibility: visible;
+}
+
+.info-bulle{
+  background-color: #FF8E00;
+  color: white;
+  box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 40%);;
+  margin-left: 4rem;
+  padding: .5rem 1rem .5rem 1rem;
+  border-radius: .7rem;
+  font-size: 1rem;
+  text-decoration: none;
+  font-weight: normal;
+  visibility: hidden;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /*Formulaire*/
