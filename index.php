@@ -96,42 +96,34 @@ session_start();
           <div class="position-equipe">
             <h1 id="equipe-titre" class="nav-fix-40">Nos équipes</h1>
             <div class="equipes">
-              <div class="equipe-a">
-                <h3 class="titre-equipe">Equipe A</h3>
-                <h4 class="nom-entraineur">Entraîneur</h4>
-                <div class="joueurs">
-                  <div class="joueur-1">
-                      <p>Joueur 1</p>
-                  </div>
-                  <div class="joueur-2">
-                    <p>Joueur 2</p>
-                  </div>
-                </div>
-              </div>
-              <div class="equipe-b">
-                <h3 class="titre-equipe">Equipe B</h3>
-                <h4 class="nom-entraineur">Entraîneur</h4>
-                <div class="joueurs">
-                  <div class="joueur-1">
-                    <p>Joueur 1</p>
-                  </div>
-                  <div class="joueur-2">
-                    <p>Joueur 2</p>
-                  </div>
-                </div>
-              </div>
-              <div class="equipe-c">
-                <h3 class="titre-equipe">Equipe C</h3>
-                <h4 class="nom-entraineur">Entraîneur</h4>
-                <div class="joueurs">
-                  <div class="joueur-1">
-                      <p>Joueur 1</p>
-                  </div>
-                  <div class="joueur-2">
-                    <p>Joueur 2</p>
+
+              <?php
+              // On charge le fichier block_equipe.php qui défini les informations d'affichage des équipes
+              include 'templates/block_equipe.php';
+
+              /*echo $nbr_equipe;*/
+
+              for ($i=0; $i < $nbr_equipe; $i++) { 
+                echo 
+                '
+                <div class="equipe">
+                  <h3 class="titre-equipe">'.$tab_nom_entraineur_et_equipe[$i]["nom_equipe"].'</h3>
+                  <h4 class="nom-entraineur">'.$tab_nom_entraineur_et_equipe[$i]["nom_entraineur"].'</h4>
+                  <div class="joueurs">
+                    <div class="joueur-1">
+                        <p>'.nom_joueur($tab_nom_entraineur_et_equipe, $i, 0).'</p>
+                    </div>
+                    <div class="joueur-2">
+                      <p>'.nom_joueur($tab_nom_entraineur_et_equipe, $i, 1).'</p>
+                    </div>
                   </div>
                 </div>
-              </div>
+
+                ';
+              }
+              /*var_dump($tableau_nom_equipe);*/
+              ?>
+              
             </div>
           </div>
         </section>
