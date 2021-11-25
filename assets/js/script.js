@@ -41,6 +41,11 @@ window.addEventListener("DOMContentLoaded", function () {
         // boucle d'affchage des block équipe 3 par 3
         for (let i = 0; i < a && i < les_equipes.length; i++) {
             les_equipes[i].style.display = "block";
+            // test si a est supérieur ou égal à la taille du tableau les_equipes
+            if (a >= les_equipes.length) {
+                // retire le bouton btn_plus_equipe
+                btn_plus_equipe.style.display = "none";
+            }
         }
     }
 
