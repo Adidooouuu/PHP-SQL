@@ -290,3 +290,27 @@ padding : 0 5rem;
 .avertissements{
   font-style: italic;
 }
+
+/*President*/
+
+#president{
+  flex: 0 0 60%;
+  max-width: 60%;
+  background-color: #fff;
+  margin-top: 1rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-top: 2rem;
+  border: 2px solid #000;
+  border-radius: 2rem;
+  margin-bottom: 5rem;
+  line-height: 4rem;
+}
+
+.button{
+  line-height: 2rem;
+}
+
+.avertissements{
+  font-style: italic;
+}

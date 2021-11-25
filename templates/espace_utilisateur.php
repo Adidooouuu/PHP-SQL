@@ -167,6 +167,58 @@
 
         </section>
 
+        <section id="president">
+          <div class="gestion_equipe_president">
+            <form class="form_president" action="espace_utilisateur.php" method="post">
+              <fieldset>
+                <legend>Gestion de l'équipe</legend>
+                <div class="nom_equipe">
+                  <label for="nom_equipe">Equipe sélectionnée : </label>
+                  <select class="nom_equipe" name="nom_equipe" id="choix_equipe">
+                    <option value="">&nbsp;</option>
+                    <option value="equipe_1">Equipe 1</option>
+                    <option value="equipe_2">Equipe 2</option>
+                    <option value="equipe_3">Equipe 3</option>
+                    <option value="equipe_4">Equipe 4</option>
+                  </select>
+                </div>
+                <div class="categorie">
+                  <label for="categorie">Catégorie : </label>
+                  <select class="categorie" name="categorie" id="categorie_president">
+                    <option value="">&nbsp;</option>
+                    <option value="minibad">MiniBad</option>
+                    <option value="poussins">Poussins</option>
+                    <option value="benjamins">Benjamins</option>
+                    <option value="minimes">Minimes</option>
+                    <option value="cadets">Cadets</option>
+                    <option value="juniors">Juniors</option>
+                    <option value="seniors">Seniors</option>
+                    <option value="veteran_1">Vétéran 1</option>
+                    <option value="veteran_2">Vétéran 2</option>
+                    <option value="veteran_3">Vétéran 3</option>
+                    <option value="veteran_4">Vétéran 4</option>
+                    <option value="veteran_6">Vétéran 6</option>
+                    <option value="veteran_7">Vétéran 7</option>
+                    <option value="veteran_8">Vétéran 8</option>
+                  </select>
+                </div>
+                <div class="entraineur">
+                  <label for="entraineur">Entraineur : </label>
+                  <select class="entraineur" name="entraineur" id="nom_entraineur">
+                    <option value="">&nbsp;</option>
+                    <option value="identifiant_entraineur">Entraineur 1</option>
+                    <option value="identifiant_entraineur">Entraineur 2</option>
+                    <option value="identifiant_entraineur">Entraineur 3</option>
+                    <option value="identifiant_entraineur">Entraineur 4</option>
+                  </select>
+                </div>
+                <button class="button" type="submit" name="button">Modifier l'équipe</button>
+                <p class="avertissements">Aucun champs n'est obligatoire</p>
+              </fieldset>
+            </form> 
+          </div>
+        </section>
+
       </div>
     </main>
   </body>
