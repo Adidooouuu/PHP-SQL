@@ -50,9 +50,15 @@ main
   padding-right: 5rem;
 }
 
+input
+{
+  line-height: 1rem;
+}
+
 /*Global index*/
 
-.nav-fix-40{
+.nav-fix-40
+{
   padding-top: 40px;
   margin-top: -40px;
 }
@@ -200,28 +206,33 @@ padding : 0 5rem;
 
 /*Section equipe*/
 
-.nos-equipes{
+.nos-equipes
+{
   display: flex;
   justify-content: center;
 }
 
-#equipe-titre{
+#equipe-titre
+{
   margin-bottom: 3rem;
 }
 
-.position-equipe{
+.position-equipe
+{
   display: flex;
   flex-direction: column;
   text-align: center;
 }
 
-.equipes{
+.equipes
+{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
 
-.equipe{
+.equipe
+{
   flex-basis: 15%;
   padding-left: 5rem;
   padding-right: 5rem;
@@ -233,31 +244,36 @@ padding : 0 5rem;
   box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
 }
 
-.joueurs{
+.joueurs
+{
   display: flex;
 }
 
-.joueur-1{
+.joueur-1
+{
   white-space: nowrap;
   margin-right: 1rem;
   border-right: 1px solid #000;
   padding-right: 2rem;
 }
 
-.joueur-2{
+.joueur-2
+{
   white-space: nowrap;
   margin-left: 1rem;
 }
 
 /*Formulaire*/
 
-.formulaire{
+.formulaire
+{
 	display: flex;
 	align-items: center;
 	flex-direction: column;
 }
 
-#boutons-connexion{
+#boutons-connexion
+{
   margin-top: 1rem;
 }
 
@@ -265,7 +281,8 @@ padding : 0 5rem;
 
 /*Entraineur*/
 
-#entraineur{
+#entraineur
+{
   flex: 0 0 60%;
   max-width: 60%;
   background-color: #fff;
@@ -279,23 +296,26 @@ padding : 0 5rem;
   line-height: 4rem;
 }
 
-#nom_equipe{
-  line-height: 1rem;
-}
-
-.button{
+.button
+{
   line-height: 2rem;
 }
 
-.avertissements{
+.avertissements
+{
   font-style: italic;
 }
 
 /*President*/
 
-#president{
+#president
+{
   flex: 0 0 60%;
   max-width: 60%;
+}
+
+.form_president
+{
   background-color: #fff;
   margin-top: 1rem;
   padding-left: 5rem;
@@ -307,10 +327,30 @@ padding : 0 5rem;
   line-height: 4rem;
 }
 
-.button{
+.formulaire_ajout_retrait_joueur
+{
+  background-color: #fff;
+  margin-top: 1rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-top: 2rem;
+  border: 2px solid #000;
+  border-radius: 2rem;
+  margin-bottom: 5rem;
+  line-height: 4rem;
+}
+
+.button
+{
   line-height: 2rem;
 }
 
-.avertissements{
+.avertissements
+{
   font-style: italic;
+}
+
+.red
+{
+  color: red;
 }

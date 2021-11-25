@@ -168,7 +168,6 @@
         </section>
 
         <section id="president">
-          <div class="gestion_equipe_president">
             <form class="form_president" action="espace_utilisateur.php" method="post">
               <fieldset>
                 <legend>Gestion de l'équipe</legend>
@@ -216,7 +215,54 @@
                 <p class="avertissements">Aucun champs n'est obligatoire</p>
               </fieldset>
             </form> 
-          </div>
+            <div class="formulaire_ajout_retrait_joueur">
+              <form action="espace_utilisateur.php" method="post">
+                <fieldset>
+                  <legend>Ajout de joueur</legend>
+                  <div class="nom_joueur">
+                    <label for="nom_joueur">Nom<span class="red">*</span> : </label>
+                    <input type="text" name="nom_joueur" id="nom_joueur" required>
+                  </div>
+                  <div class="prenom_joueur">
+                    <label for="prenom_joueur">Prénom<span class="red">*</span> : </label>
+                    <input type="text" name="prenom_joueur" id="prenom_joueur" required>
+                  </div>
+                  <div class="age">
+                    <label for="age">Age<span class="red">*</span> : </label>
+                    <input type="text" name="age" id="age" required>
+                  </div>
+                  <div class="identifiant_connexion">
+                    <label for="identifiant_connexion">Attribuer un identifiant de connexion<span class="red">*</span> : </label>
+                    <input type="text" name="identifiant_connexion" id="identifiant_connexion" required>
+                  </div>
+                  <div class="mot_de_passe">
+                    <label for="mot_de_passe">Attribuer un mot de passe<span class="red">*</span> : </label>
+                    <input type="password" name="mot_de_passe" id="mot_de_passe" required>
+                  </div>
+                  <button class="button" type="submit" name="button">Ajouter le joueur</button>
+                </fieldset>
+              </form>
+              <form action="espace_utilisateur.php" method="post">
+                <fieldset>
+                  <legend>Retrait de joueur</legend>
+                  <div class="joueur">
+                    <label for="joueur">Nom du joueur<span class="red">*</span> : </label>
+                    <select class="joueur" name="joueur" id="joueur" required>
+                      <option value="">&nbsp;</option>
+                      <option value="nom_joueur_1">Joueur 1</option>
+                      <option value="nom_joueur_2">Joueur 2</option>
+                      <option value="nom_joueur_3">Joueur 3</option>
+                      <option value="nom_joueur_4">Joueur 4</option>
+                    </select>
+                  </div>
+                  <div class="mot_de_passe_president">
+                    <label for="mot_de_passe_president">Mot de passe "Président"<span class="red">*</span> : </label>
+                    <input type="password" name="mot_de_passe_president" id="mot_de_passe_president" required>
+                  </div>
+                  <button class="button" type="submit" name="button">Supprimer le joueur</button>
+                </fieldset>
+              </form>
+            </div> 
         </section>
 
       </div>
