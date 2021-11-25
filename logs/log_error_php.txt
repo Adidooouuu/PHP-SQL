@@ -11616,3 +11616,283 @@ Stack trace:
 [25-Nov-2021 02:03:12 UTC] PHP Notice:  Undefined variable: tab_nom_entraineur_equipe in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 117
 [25-Nov-2021 02:03:12 UTC] PHP Stack trace:
 [25-Nov-2021 02:03:12 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:09 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:09 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:09 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:09 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 116
+[25-Nov-2021 18:08:09 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:09 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:09 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:09 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 116
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 116
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 116
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:10 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 116
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 116
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 116
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 116
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:11 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:11 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:11 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:12 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:12 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:12 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:12 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:12 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:12 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:12 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 116
+[25-Nov-2021 18:08:12 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:12 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:12 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:12 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:12 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:12 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:12 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:12 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:12 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:12 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:12 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:12 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 116
+[25-Nov-2021 18:08:12 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:12 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:12 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 113
+[25-Nov-2021 18:08:12 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:12 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:20 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:20 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:20 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:20 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:20 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:20 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:20 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:20 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:20 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:116
+[25-Nov-2021 18:08:20 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:20 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:20 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:55 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:55 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:55 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:55 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:55 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:55 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:55 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:55 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:55 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:55 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:55 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:55 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:116
+[25-Nov-2021 18:08:55 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:55 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:55 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:55 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:56 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:56 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:56 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:56 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:56 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:56 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:56 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:56 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:56 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:116
+[25-Nov-2021 18:08:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:56 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:56 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:56 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:56 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:56 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:56 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:56 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:56 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:56 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:56 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:56 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:56 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:116
+[25-Nov-2021 18:08:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:56 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:56 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:56 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:58 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:58 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:58 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:58 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:58 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:58 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:58 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:58 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:58 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:116
+[25-Nov-2021 18:08:58 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:58 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:58 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:116
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:116
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:116
+[25-Nov-2021 18:08:59 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:08:59 UTC] PHP Stack trace:
+[25-Nov-2021 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:08:59 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:09:04 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:09:04 UTC] PHP Stack trace:
+[25-Nov-2021 18:09:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:09:04 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:09:04 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:09:04 UTC] PHP Stack trace:
+[25-Nov-2021 18:09:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:09:04 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:09:04 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:09:04 UTC] PHP Stack trace:
+[25-Nov-2021 18:09:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:09:04 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:116
+[25-Nov-2021 18:09:04 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:09:04 UTC] PHP Stack trace:
+[25-Nov-2021 18:09:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:09:04 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:09:04 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:09:04 UTC] PHP Stack trace:
+[25-Nov-2021 18:09:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:09:04 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:09:04 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:09:04 UTC] PHP Stack trace:
+[25-Nov-2021 18:09:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:09:04 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
+[25-Nov-2021 18:09:04 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:09:04 UTC] PHP Stack trace:
+[25-Nov-2021 18:09:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:09:04 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:116
+[25-Nov-2021 18:09:04 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\mapagephp\UE219\PHP-SQL\templates\block_equipe.php on line 90
+[25-Nov-2021 18:09:04 UTC] PHP Stack trace:
+[25-Nov-2021 18:09:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[25-Nov-2021 18:09:04 UTC] PHP   2. nom_joueur() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:113
