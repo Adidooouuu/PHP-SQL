@@ -33393,3 +33393,2064 @@ Stack trace:
 [26-Nov-2021 17:39:50 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
 [26-Nov-2021 17:39:50 UTC] PHP Stack trace:
 [26-Nov-2021 17:39:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:10 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:10 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:10 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:54:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:54:13 UTC] PHP Stack trace:
+[26-Nov-2021 17:54:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:04 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:04 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:04 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:05 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 17:58:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 17:58:06 UTC] PHP Stack trace:
+[26-Nov-2021 17:58:06 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:00:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:00:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:00:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:01:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:01:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:01:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:03:36 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:03:36 UTC] PHP Stack trace:
+[26-Nov-2021 18:03:36 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:14:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:14:01 UTC] PHP Stack trace:
+[26-Nov-2021 18:14:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:29 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:31 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:31 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:31 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:32 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:32 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:49 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:49 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:49 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:21:50 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:21:50 UTC] PHP Stack trace:
+[26-Nov-2021 18:21:50 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 18:31:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 18:31:52 UTC] PHP Stack trace:
+[26-Nov-2021 18:31:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:17 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:17 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:17 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:13:20 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:13:20 UTC] PHP Stack trace:
+[26-Nov-2021 19:13:20 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:14:27 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:14:27 UTC] PHP Stack trace:
+[26-Nov-2021 19:14:27 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:15:41 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:15:41 UTC] PHP Stack trace:
+[26-Nov-2021 19:15:41 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:03 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:03 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:03 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:35 UTC] PHP Notice:  Undefined variable: cle_password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 255
+[26-Nov-2021 19:17:35 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:35 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:57 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:57 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:57 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:17:58 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:17:58 UTC] PHP Stack trace:
+[26-Nov-2021 19:17:58 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:18:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:18:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:18:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:21:59 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:21:59 UTC] PHP Stack trace:
+[26-Nov-2021 19:21:59 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:22:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:22:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:22:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:34 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:34 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:34 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:51 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:51 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:51 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:26:52 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:26:52 UTC] PHP Stack trace:
+[26-Nov-2021 19:26:52 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:05 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:05 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:05 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:27:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:27:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:27:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:39 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:39 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:39 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:28:40 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:28:40 UTC] PHP Stack trace:
+[26-Nov-2021 19:28:40 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:13 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:13 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:13 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:29:14 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:29:14 UTC] PHP Stack trace:
+[26-Nov-2021 19:29:14 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:01 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:01 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:01 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:31:48 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:31:48 UTC] PHP Stack trace:
+[26-Nov-2021 19:31:48 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 231
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[26-Nov-2021 19:32:29 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 244
+[26-Nov-2021 19:32:29 UTC] PHP Stack trace:
+[26-Nov-2021 19:32:29 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0

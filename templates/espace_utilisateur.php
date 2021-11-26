@@ -19,87 +19,76 @@ session_start();
     </header>
     <main>
       <div class="main_centered flex">
-      
-        <!--
-        <div class="connected_member">
-          <div class="connected_member_picture">
-            <img src="../assets/img/president.jpg" alt="Photo membre">
-          </div>
-          <div class="connected_member_data">
-            <p>Éric ZEMMOUR</p>
-            <p>Vétéran 2</p>
-            <div class="connected_member_team">
-              <p>Les BG</p>
-              <p>Vétéran</p>
-            </div>
-          </div>
-        </div>
-        -->
-        
-        <section id="entraineur">
+      <?php
 
-          <form class="form_team_management" action="espace_utilisateur.php" method="post">
-            <fieldset>
-              <legend>Gestion de l'équipe (entraineur)</legend>
-              <p>Votre équipe : </p> <?php //TODO : appeler le nom de l'équipe?>
-              <div class="nom_equipe">
-                <label for="nom_equipe">Nouveau nom de l'équipe : </label>
-                <input type="text" name="nom_equipe" id="nom_equipe">
-              </div>
-              <div class="categorie">
-                <label for="categorie">Catégorie : </label>
-                <select class="categorie" name="categorie" id="categorie">
-                  <option value="">&nbsp;</option>
-                  <option value="minibad">MiniBad</option>
-                  <option value="poussins">Poussins</option>
-                  <option value="benjamins">Benjamins</option>
-                  <option value="minimes">Minimes</option>
-                  <option value="cadets">Cadets</option>
-                  <option value="juniors">Juniors</option>
-                  <option value="seniors">Seniors</option>
-                  <option value="veteran_1">Vétéran 1</option>
-                  <option value="veteran_2">Vétéran 2</option>
-                  <option value="veteran_3">Vétéran 3</option>
-                  <option value="veteran_4">Vétéran 4</option>
-                  <option value="veteran_6">Vétéran 6</option>
-                  <option value="veteran_7">Vétéran 7</option>
-                  <option value="veteran_8">Vétéran 8</option>
-                </select>
-              </div>
-              <div class="joueur_1">
-                <label for="joueur_1">Joueur 1 : </label>
-                <select class="joueur_1" name="joueur_1" id="joueur_1">
-                  <option value="">&nbsp;</option>
-                  <option value="identifiant_joueur_1">Joueur 1</option>
-                  <option value="identifiant_joueur_2">Joueur 2</option>
-                  <option value="identifiant_joueur_3">Joueur 3</option>
-                  <option value="identifiant_joueur_4">Joueur 4</option>
-                </select>
-              </div>
-              <div class="joueur_2">
-                <label for="joueur_2">Joueur 2 : </label>
-                <select class="joueur_2" name="joueur_2" id="joueur_2">
-                  <option value="">&nbsp;</option>
-                  <option value="identifiant_joueur_1">Joueur 1</option>
-                  <option value="identifiant_joueur_2">Joueur 2</option>
-                  <option value="identifiant_joueur_3">Joueur 3</option>
-                  <option value="identifiant_joueur_4">Joueur 4</option>
-                </select>
-              </div>
-              <button class="button" type="submit" name="button">Modifier l'équipe</button>
-              <p class="avertissements">Aucun champs n'est obligatoire</p>
-            </fieldset>
-          </form>
-
-        </section>
-
-        <section id="president">
+      if (!empty($_SESSION['log']['type_utilisateur']) && array_key_exists('type_utilisateur', $_SESSION['log']) && is_string($_SESSION['log']['type_utilisateur'])) {
+        if ($_SESSION['log']['type_utilisateur'] === "entraineur") {
+          echo '
+          <section id="entraineur">
+            <form class="form_team_management" action="espace_utilisateur.php" method="post">
+              <fieldset>
+                <legend>Gestion de l\'équipe</legend>
+                <p>Votre équipe : </p> <?php //TODO : appeler le nom de l\'équipe?>
+                <div class="nom_equipe">
+                  <label for="nom_equipe">Nouveau nom de l\'équipe : </label>
+                  <input type="text" name="nom_equipe" id="nom_equipe">
+                </div>
+                <div class="categorie">
+                  <label for="categorie">Catégorie : </label>
+                  <select class="categorie" name="categorie" id="categorie">
+                    <option value="">&nbsp;</option>
+                    <option value="minibad">MiniBad</option>
+                    <option value="poussins">Poussins</option>
+                    <option value="benjamins">Benjamins</option>
+                    <option value="minimes">Minimes</option>
+                    <option value="cadets">Cadets</option>
+                    <option value="juniors">Juniors</option>
+                    <option value="seniors">Seniors</option>
+                    <option value="veteran_1">Vétéran 1</option>
+                    <option value="veteran_2">Vétéran 2</option>
+                    <option value="veteran_3">Vétéran 3</option>
+                    <option value="veteran_4">Vétéran 4</option>
+                    <option value="veteran_6">Vétéran 6</option>
+                    <option value="veteran_7">Vétéran 7</option>
+                    <option value="veteran_8">Vétéran 8</option>
+                  </select>
+                </div>
+                <div class="joueur_1">
+                  <label for="joueur_1">Joueur 1 : </label>
+                  <select class="joueur_1" name="joueur_1" id="joueur_1">
+                    <option value="">&nbsp;</option>
+                    <option value="identifiant_joueur_1">Joueur 1</option>
+                    <option value="identifiant_joueur_2">Joueur 2</option>
+                    <option value="identifiant_joueur_3">Joueur 3</option>
+                    <option value="identifiant_joueur_4">Joueur 4</option>
+                  </select>
+                </div>
+                <div class="joueur_2">
+                  <label for="joueur_2">Joueur 2 : </label>
+                  <select class="joueur_2" name="joueur_2" id="joueur_2">
+                    <option value="">&nbsp;</option>
+                    <option value="identifiant_joueur_1">Joueur 1</option>
+                    <option value="identifiant_joueur_2">Joueur 2</option>
+                    <option value="identifiant_joueur_3">Joueur 3</option>
+                    <option value="identifiant_joueur_4">Joueur 4</option>
+                  </select>
+                </div>
+                <button class="button" type="submit" name="button">Modifier l\'équipe</button>
+                <p class="avertissements">Aucun champs n\'est obligatoire</p>
+              </fieldset>
+            </form>
+          </section>
+        ';
+        }
+        if ($_SESSION['log']['type_utilisateur'] === "president") {
+          echo '
+          <section id="president">
 
             <form class="form_president" action="espace_utilisateur.php" method="post">
               <fieldset>
-                <legend>Création d'équipe (président)</legend>
+                <legend>Création d\'équipe</legend>
                 <div class="nom_equipe">
-                  <label for="nom_equipe_crea">Nom de l'équipe<span class="red">*</span> : </label>
+                  <label for="nom_equipe_crea">Nom de l\'équipe<span class="red">*</span> : </label>
                   <input type="text" name="nom_equipe" id="nom_equipe_crea" required>
                 </div>
                 <div class="categorie">
@@ -132,7 +121,7 @@ session_start();
                     <option value="identifiant_entraineur">Entraineur 4</option>
                   </select>
                 </div>
-                <button class="button" type="submit" name="button">Modifier l'équipe</button>
+                <button class="button" type="submit" name="button">Modifier l\'équipe</button>
                 <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
               </fieldset>
             </form>
@@ -140,7 +129,7 @@ session_start();
             <div class="formulaire_ajout_retrait_joueur">
               <form action="espace_utilisateur.php" method="post">
                 <fieldset>
-                  <legend>Ajout de joueur (président)</legend>
+                  <legend>Ajout de joueur</legend>
                   <div class="nom_joueur">
                     <label for="nom_joueur">Nom<span class="red">*</span> : </label>
                     <input type="text" name="nom_joueur" id="nom_joueur" required>
@@ -168,7 +157,7 @@ session_start();
               <hr>
               <form action="espace_utilisateur.php" method="post">
                 <fieldset>
-                  <legend>Retrait de joueur (président)</legend>
+                  <legend>Retrait de joueur</legend>
                   <div class="joueur">
                     <label for="joueur">Nom du joueur<span class="red">*</span> : </label>
                     <select class="joueur" name="joueur" id="joueur" required>
@@ -192,7 +181,7 @@ session_start();
             <div class="formulaire_ajout_retrait_entraineur">
               <form action="espace_utilisateur.php" method="post">
                 <fieldset>
-                  <legend>Ajout d'entraineur (président)</legend>
+                  <legend>Ajout d\'entraineur</legend>
                   <div class="nom_entraineur">
                     <label for="nom_entraineur">Nom<span class="red">*</span> : </label>
                     <input type="text" name="nom_entraineur" id="nom_entraineur_ajout" required>
@@ -209,16 +198,16 @@ session_start();
                     <label for="mot_de_passe_entraineur">Attribuer un mot de passe<span class="red">*</span> : </label>
                     <input type="password" name="mot_de_passe_entraineur" id="mot_de_passe_entraineur" required>
                   </div>
-                  <button class="button" type="submit" name="button">Ajouter l'entraineur</button>
+                  <button class="button" type="submit" name="button">Ajouter l\'entraineur</button>
                 </fieldset>
               </form>
               <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
               <hr>
               <form action="espace_utilisateur.php" method="post">
                 <fieldset>
-                  <legend>Retrait d'entraineur (président)</legend>
+                  <legend>Retrait d\'entraineur</legend>
                   <div class="entraineur">
-                    <label for="entraineur">Nom de l'entraineur<span class="red">*</span> : </label>
+                    <label for="entraineur">Nom de l\'entraineur<span class="red">*</span> : </label>
                     <select class="entraineur" name="entraineur" id="nom_de_l_entraineur" required>
                       <option value="">&nbsp;</option>
                       <option value="nom_entraineur_1">entraineur 1</option>
@@ -231,17 +220,22 @@ session_start();
                     <label for="mot_de_passe_president">Mot de passe "Président"<span class="red">*</span> : </label>
                     <input type="password" name="mot_de_passe_president" id="mot_de_passe_president_suppression_entraineur" required>
                   </div>
-                  <button class="button" type="submit" name="button">Supprimer l'entraineur</button>
+                  <button class="button" type="submit" name="button">Supprimer l\'entraineur</button>
                 </fieldset>
               </form>
               <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
             </div>
         </section>
-      
+        ';
+        }
+        if ($_SESSION['log']['type_utilisateur'] === "joueur") {
+          echo '
+          <p>Il n\'y a pas d\'espace utilisateur pour un joueur</p>
+          ';
+        }
+      }
+      ?>
       </div>
     </main>
-    <?php
-    var_dump($_SESSION);
-    ?>
   </body>
 </html>
