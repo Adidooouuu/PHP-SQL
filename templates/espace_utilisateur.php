@@ -18,8 +18,9 @@ session_start();
       </nav>
     </header>
     <main>
-      <!--
       <div class="main_centered flex">
+      
+        <!--
         <div class="connected_member">
           <div class="connected_member_picture">
             <img src="../assets/img/president.jpg" alt="Photo membre">
@@ -34,7 +35,7 @@ session_start();
           </div>
         </div>
         -->
-
+        
         <section id="entraineur">
 
           <form class="form_team_management" action="espace_utilisateur.php" method="post">
@@ -236,7 +237,7 @@ session_start();
               <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
             </div>
         </section>
-
+      
       </div>
     </main>
     <?php
