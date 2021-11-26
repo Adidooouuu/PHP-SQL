@@ -179,9 +179,9 @@ session_start();
     $requete_ent = $bdd->query('SELECT * FROM entraineur');
     $requete_joueur = $bdd->query('SELECT * FROM joueur');
 
-    // on crée un tableau vide d'identifiants, de mdps et du type d'utilisateur
-    $identifiants = array();
-    $mdps = array();
+    // on crée un tableau vide pour l'identifiants et le mot de passe
+    //$identifiants[0] = array();
+    //$mdps[0] = array();
 
     // on parcourt la table president
     while ($data = $requete_pres->fetch()) {
@@ -193,8 +193,8 @@ session_start();
       }
       else {
         // sinon on récupère tous les identifiants et mdp dans les tableaux appropriés
-        array_push($identifiants, $data["identifiant_pres"]);
-        array_push($mdps, $data["mdp_pres"]);
+        $identifiants["president_id"][] = $data["identifiant_pres"];
+        $mdps["president_mdps"][] = $data["mdp_pres"];
       }
     }
 
@@ -206,8 +206,8 @@ session_start();
         break;
       }
       else {
-        array_push($identifiants, $data["identifiant_ent"]);
-        array_push($mdps, $data["mdp_ent"]);
+        $identifiants["entraineur_id"][] = $data["identifiant_ent"];
+        $mdps["entraineur_mdps"][] = $data["mdp_ent"];
       }
     }
 
@@ -217,16 +217,58 @@ session_start();
         break;
       }
       else {
-        array_push($identifiants, $data["identifiant_joueur"]);
-        array_push($mdps, $data["mdp_joueur"]);
+        $identifiants["joueur_id"][] = $data["identifiant_joueur"];
+        $mdps["joueur_mdps"][] = $data["mdp_joueur"];
       }
     }
+
+    //var_dump($identifiants);
+    //var_dump($mdps);
+
+    $tableau_id_mdps = array_merge($identifiants, $mdps);
+
+    var_dump($tableau_id_mdps);
 
     // variables permettant de récupérer l'identifiant et le mdp saisis par l'utilisateur
     $identifiant_utilisateur = null;
     $password_utilisateur = null;
 
     // on parcourt notre tableau d'identifiants précédemment récupérés
+
+    foreach ($tableau_id_mdps as $key => $value) {
+      foreach ($value as $key1 => $value1) {
+
+        //echo $value1 . "<br>";
+
+        if ($_POST['identifiant'] == $value1) {
+          $a = true;
+          $type_id = $key;
+          echo $type_id;
+        }
+        if ($_POST['password'] == $value1) {
+          $b = true;
+          $type_mdps = $key;
+          echo $type_mdps;
+        }
+
+        if ($a === true && $b === true) {
+          // on récupère la saisie
+          $identifiant_utilisateur = htmlspecialchars($_POST["identifiant"]);
+          $password_utilisateur = htmlspecialchars($_POST["password"]);
+          // on déclare 2 variables de session
+          $_SESSION['log'] = [
+            "identifiant" => $identifiant_utilisateur,
+            "password" => $password_utilisateur,
+            "type_utilisateur_id" => $type_id,
+            "type_utilisateur_mdps" => $type_mdps
+          ];
+          // on redirige l'utilisateur vers l'espace utilisateur
+          echo "<script type='text/javascript'>window.location.replace('templates/espace_utilisateur.php');</script>";
+        }
+      }
+    }
+
+    /*
     for ($i = 0; $i < count($identifiants); $i++) {
       // si on n'a pas encore récupéré la saisie de l'utilisateur, et que sa saisie est bien existante et sous forme de chaine...
       if (($identifiant_utilisateur === null || $password_utilisateur === null) && !empty($_POST) && array_key_exists('identifiant', $_POST) && array_key_exists('password', $_POST) && is_string($_POST['identifiant']) && is_string($_POST['password'])) {
@@ -238,13 +280,14 @@ session_start();
           // on déclare 2 variables de session
           $_SESSION['log'] = [
             "identifiant" => $identifiant_utilisateur,
-            "password" => $password_utilisateur
+            "password" => $password_utilisateur,
+            "type_utilisateur" => $type_utilisateur
           ];
           // on redirige l'utilisateur vers l'espace utilisateur
           echo "<script type='text/javascript'>window.location.replace('templates/espace_utilisateur.php');</script>";
         }
       }
-    }
+    }*/
 
     var_dump($_SESSION);
 
