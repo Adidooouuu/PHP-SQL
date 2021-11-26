@@ -70,6 +70,12 @@ legend{
   margin-top: -40px;
 }
 
+#main-index{
+  width: 100%;
+  min-width: auto; 
+  max-width: 100%;
+}
+
 /*Accueil*/
 
 .header
@@ -154,6 +160,10 @@ legend{
 }
 
 /*Section événements*/
+
+.section-event{
+  padding: 0 3rem 0 3rem;
+}
 
 .text-centering, .news
 {
@@ -320,6 +330,12 @@ padding : 0 5rem;
   padding: 1rem;
   max-width: max-content;
   align-self: center;
+}
+
+/* Section contact */
+
+.contact{
+  padding: 0 3rem 0 3rem;
 }
 
 /*Formulaire*/

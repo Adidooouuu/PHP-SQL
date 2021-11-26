@@ -38,7 +38,7 @@ session_start();
             <a class="nav-link" href="#equipe-titre">Equipe</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#contact">Contact</a>
+            <a class="nav-link" href="#contact-titre">Contact</a>
           </li>
           <!-- Button trigger modal -->
           <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Connexion</button>
@@ -46,7 +46,7 @@ session_start();
       </nav>
     </header>
 
-    <main>
+    <main id="main-index">
       <div class="main_centered">
         <section class="flex">
           <div class="img-placing">
@@ -62,7 +62,7 @@ session_start();
           </div>
         </section>
 
-        <section class="flex">
+        <section class="flex section-event">
           <div class="events">
             <h1 id="actualite" class="nav-fix-40">Nos prochains événements</h1>
             <div class="event">
@@ -127,8 +127,8 @@ session_start();
           <button id="bouton-plus-equipe" type="button">Voir plus</button>
         </section>
 
-        <section id="contact" class="flex nav-fix-40">
-          <h1>Nous contacter</h1>
+        <section class="flex contact">
+          <h1 id="contact-titre" class="nav-fix-40">Nous contacter</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante tincidunt mi tristique pharetra. Sed tempus ornare augue eget lacinia. Vivamus accumsan ex id velit consequat mollis. Sed interdum erat eu arcu fermentum, a lacinia nisi convallis. In suscipit tellus pretium quam aliquam, nec sodales sem accumsan. Suspendisse potenti. Donec id ornare tortor. Morbi sit amet lectus quis sem dapibus volutpat eget in quam. Nam gravida pretium ligula, vitae lacinia justo vehicula euismod. Nullam convallis erat vel quam iaculis laoreet. Praesent volutpat a lacus nec malesuada. Ut imperdiet vehicula justo eget faucibus. Integer non neque sagittis, auctor lorem a, iaculis ex.</p>
           <hr>
         </section>
