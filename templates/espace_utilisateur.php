@@ -15,6 +15,7 @@
       </nav>
     </header>
     <main>
+      <!--
       <div class="main_centered flex">
         <div class="connected_member">
           <div class="connected_member_picture">
@@ -29,6 +30,7 @@
             </div>
           </div>
         </div>
+        -->
 
         <section id="entraineur">
 

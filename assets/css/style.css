@@ -21,6 +21,7 @@ html
 
 body
 {
+  background-color: #f1f1f1;
   font-family: Arial, sans-serif;
   background-size: cover;
   width: 100%;
@@ -45,9 +46,11 @@ img
 
 main
 {
-  background-color: #f1f1f1;
-  padding-left: 5rem ;
-  padding-right: 5rem;
+  width: 50%;
+  min-width: 28rem;
+  max-width: 43rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 input
@@ -334,13 +337,17 @@ padding : 0 5rem;
 }
 
 /*Espace utilisateur*/
+/* header */
+
+.header_membre{
+  background-color: #fff;
+}
 
 /*Entraineur*/
 
 #entraineur
 {
   flex: 0 0 60%;
-  max-width: 60%;
   background-color: #fff;
   margin-top: 1rem;
   padding-left: 5rem;
@@ -367,7 +374,6 @@ padding : 0 5rem;
 #president
 {
   flex: 0 0 60%;
-  max-width: 60%;
 }
 
 .form_president
