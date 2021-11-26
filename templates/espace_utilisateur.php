@@ -93,12 +93,12 @@
               <fieldset>
                 <legend>Création d'équipe (président)</legend>
                 <div class="nom_equipe">
-                  <label for="nom_equipe_crea">Nom de l'équipe : </label>
-                  <input type="text" name="nom_equipe" id="nom_equipe_crea">
+                  <label for="nom_equipe_crea">Nom de l'équipe<span class="red">*</span> : </label>
+                  <input type="text" name="nom_equipe" id="nom_equipe_crea" required>
                 </div>
                 <div class="categorie">
-                  <label for="categorie">Catégorie : </label>
-                  <select class="categorie" name="categorie" id="categorie_president">
+                  <label for="categorie">Catégorie<span class="red">*</span> : </label>
+                  <select class="categorie" name="categorie" id="categorie_president" required>
                     <option value="">&nbsp;</option>
                     <option value="minibad">MiniBad</option>
                     <option value="poussins">Poussins</option>
@@ -117,8 +117,8 @@
                   </select>
                 </div>
                 <div class="entraineur">
-                  <label for="entraineur">Entraineur : </label>
-                  <select class="entraineur" name="entraineur" id="nom_entraineur">
+                  <label for="entraineur">Entraineur<span class="red">*</span> : </label>
+                  <select class="entraineur" name="entraineur" id="nom_entraineur" required>
                     <option value="">&nbsp;</option>
                     <option value="identifiant_entraineur">Entraineur 1</option>
                     <option value="identifiant_entraineur">Entraineur 2</option>
@@ -127,7 +127,7 @@
                   </select>
                 </div>
                 <button class="button" type="submit" name="button">Modifier l'équipe</button>
-                <p class="avertissements">Aucun champs n'est obligatoire</p>
+                <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
               </fieldset>
             </form>
 
@@ -158,6 +158,8 @@
                   <button class="button" type="submit" name="button">Ajouter le joueur</button>
                 </fieldset>
               </form>
+              <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
+              <hr>
               <form action="espace_utilisateur.php" method="post">
                 <fieldset>
                   <legend>Retrait de joueur (président)</legend>
@@ -178,6 +180,7 @@
                   <button class="button" type="submit" name="button">Supprimer le joueur</button>
                 </fieldset>
               </form>
+              <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
             </div>
 
             <div class="formulaire_ajout_retrait_entraineur">
@@ -203,6 +206,8 @@
                   <button class="button" type="submit" name="button">Ajouter l'entraineur</button>
                 </fieldset>
               </form>
+              <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
+              <hr>
               <form action="espace_utilisateur.php" method="post">
                 <fieldset>
                   <legend>Retrait d'entraineur (président)</legend>
@@ -223,6 +228,7 @@
                   <button class="button" type="submit" name="button">Supprimer l'entraineur</button>
                 </fieldset>
               </form>
+              <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
             </div>
         </section>
 

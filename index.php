@@ -246,6 +246,8 @@ session_start();
       }
     }
 
+    var_dump($_SESSION);
+
     // TODO
     // 
     // si l'utilisateur est déjà connecté, il faudrait remplacer le bouton "connexion" par "espace utilisateur" sur la page d'accueil

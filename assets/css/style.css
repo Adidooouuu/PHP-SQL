@@ -55,6 +55,10 @@ input
   line-height: 1rem;
 }
 
+legend{
+  margin-bottom:-1rem;
+}
+
 /*Global index*/
 
 .nav-fix-40
