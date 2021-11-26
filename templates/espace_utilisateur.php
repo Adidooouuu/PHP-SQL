@@ -35,7 +35,17 @@
 
           <form class="form_team_management" action="espace_utilisateur.php" method="post">
             <fieldset>
-              <legend>Gestion de l'équipe</legend>
+              <legend>Gestion de l'équipe (entraineur)</legend>
+              <div class="nom_equipe">
+                <label for="nom_equipe">Equipe sélectionnée : </label>
+                <select class="nom_equipe" name="nom_equipe" id="choix_equipe_ent" required>
+                  <option value="">&nbsp;</option>
+                  <option value="equipe_1">Equipe 1</option>
+                  <option value="equipe_2">Equipe 2</option>
+                  <option value="equipe_3">Equipe 3</option>
+                  <option value="equipe_4">Equipe 4</option>
+                </select>
+              </div>
               <div class="nom_equipe">
                 <label for="nom_equipe">Nom de l'équipe : </label>
                 <input type="text" name="nom_equipe" id="nom_equipe">
@@ -83,7 +93,7 @@
               <button class="button" type="submit" name="button">Modifier l'équipe</button>
               <p class="avertissements">Aucun champs n'est obligatoire</p>
             </fieldset>
-          </form> 
+          </form>
 
         </section>
 
@@ -91,7 +101,7 @@
 
             <form class="form_president" action="espace_utilisateur.php" method="post">
               <fieldset>
-                <legend>Gestion de l'équipe</legend>
+                <legend>Gestion de l'équipe (président)</legend>
                 <div class="nom_equipe">
                   <label for="nom_equipe">Equipe sélectionnée : </label>
                   <select class="nom_equipe" name="nom_equipe" id="choix_equipe">
@@ -135,7 +145,7 @@
                 <button class="button" type="submit" name="button">Modifier l'équipe</button>
                 <p class="avertissements">Aucun champs n'est obligatoire</p>
               </fieldset>
-            </form> 
+            </form>
 
             <div class="formulaire_ajout_retrait_joueur">
               <form action="espace_utilisateur.php" method="post">
@@ -184,7 +194,7 @@
                   <button class="button" type="submit" name="button">Supprimer le joueur</button>
                 </fieldset>
               </form>
-            </div> 
+            </div>
 
             <div class="formulaire_ajout_retrait_entraineur">
               <form action="espace_utilisateur.php" method="post">
@@ -229,7 +239,7 @@
                   <button class="button" type="submit" name="button">Supprimer l'entraineur</button>
                 </fieldset>
               </form>
-            </div> 
+            </div>
         </section>
 
       </div>
