@@ -179,7 +179,7 @@ session_start();
     $requete_ent = $bdd->query('SELECT * FROM entraineur');
     $requete_joueur = $bdd->query('SELECT * FROM joueur');
 
-    // on crée un tableau vide d'identifiants et un tableau vide de mdps
+    // on crée un tableau vide d'identifiants, de mdps et du type d'utilisateur
     $identifiants = array();
     $mdps = array();
 
