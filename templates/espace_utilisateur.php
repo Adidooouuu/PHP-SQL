@@ -35,18 +35,9 @@
           <form class="form_team_management" action="espace_utilisateur.php" method="post">
             <fieldset>
               <legend>Gestion de l'équipe (entraineur)</legend>
+              <p>Votre équipe : </p> <?php //TODO : appeler le nom de l'équipe?>
               <div class="nom_equipe">
-                <label for="nom_equipe">Equipe sélectionnée : </label>
-                <select class="nom_equipe" name="nom_equipe" id="choix_equipe_ent" required>
-                  <option value="">&nbsp;</option>
-                  <option value="equipe_1">Equipe 1</option>
-                  <option value="equipe_2">Equipe 2</option>
-                  <option value="equipe_3">Equipe 3</option>
-                  <option value="equipe_4">Equipe 4</option>
-                </select>
-              </div>
-              <div class="nom_equipe">
-                <label for="nom_equipe">Nom de l'équipe de l'entraineur: </label>
+                <label for="nom_equipe">Nouveau nom de l'équipe : </label>
                 <input type="text" name="nom_equipe" id="nom_equipe">
               </div>
               <div class="categorie">
@@ -192,7 +183,7 @@
             <div class="formulaire_ajout_retrait_entraineur">
               <form action="espace_utilisateur.php" method="post">
                 <fieldset>
-                  <legend>Ajout d'entraineur</legend>
+                  <legend>Ajout d'entraineur (président)</legend>
                   <div class="nom_entraineur">
                     <label for="nom_entraineur">Nom<span class="red">*</span> : </label>
                     <input type="text" name="nom_entraineur" id="nom_entraineur_ajout" required>
@@ -214,7 +205,7 @@
               </form>
               <form action="espace_utilisateur.php" method="post">
                 <fieldset>
-                  <legend>Retrait d'entraineur</legend>
+                  <legend>Retrait d'entraineur (président)</legend>
                   <div class="entraineur">
                     <label for="entraineur">Nom de l'entraineur<span class="red">*</span> : </label>
                     <select class="entraineur" name="entraineur" id="nom_de_l_entraineur" required>
