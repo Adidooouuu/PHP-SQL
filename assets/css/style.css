@@ -34,7 +34,7 @@ p{
 
 section
 {
-padding-top: 5rem;
+  padding: 5rem 0 5rem 0;
 }
 
 img
@@ -46,9 +46,9 @@ img
 
 main
 {
-  width: 50%;
-  min-width: 28rem;
-  max-width: 43rem;
+  width: 100%;
+  min-width: 50%;
+  max-width: 60rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -143,7 +143,6 @@ legend{
 	align-items: center;
 	justify-content: center;
   width : 100%;
-  min-height : 100vh;
 }
 
 .img-placing, .text

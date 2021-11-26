@@ -179,10 +179,6 @@ session_start();
     $requete_ent = $bdd->query('SELECT * FROM entraineur');
     $requete_joueur = $bdd->query('SELECT * FROM joueur');
 
-    // on crée un tableau vide d'identifiants et un tableau vide de mdps
-    $identifiants = array();
-    $mdps = array();
-
     // on parcourt la table president
     while ($data = $requete_pres->fetch()) {
       // si pas de données dans la table...
@@ -192,9 +188,9 @@ session_start();
         break;
       }
       else {
-        // sinon on récupère tous les identifiants et mdp dans les tableaux appropriés
-        array_push($identifiants, $data["identifiant_pres"]);
-        array_push($mdps, $data["mdp_pres"]);
+        // dans les tableaux $identifiants et $mdps ajoute la variable $data des clés "identifiant_pres" et "mdp_pres" 
+        $identifiants["president"][] = $data["identifiant_pres"];
+        $mdps["president"][] = $data["mdp_pres"];
       }
     }
 
@@ -206,8 +202,8 @@ session_start();
         break;
       }
       else {
-        array_push($identifiants, $data["identifiant_ent"]);
-        array_push($mdps, $data["mdp_ent"]);
+        $identifiants["entraineur"][] = $data["identifiant_ent"];
+        $mdps["entraineur"][] = $data["mdp_ent"];
       }
     }
 
@@ -217,8 +213,8 @@ session_start();
         break;
       }
       else {
-        array_push($identifiants, $data["identifiant_joueur"]);
-        array_push($mdps, $data["mdp_joueur"]);
+        $identifiants["joueur"][] = $data["identifiant_joueur"];
+        $mdps["joueur"][] = $data["mdp_joueur"];
       }
     }
 
@@ -226,27 +222,53 @@ session_start();
     $identifiant_utilisateur = null;
     $password_utilisateur = null;
 
-    // on parcourt notre tableau d'identifiants précédemment récupérés
-    for ($i = 0; $i < count($identifiants); $i++) {
-      // si on n'a pas encore récupéré la saisie de l'utilisateur, et que sa saisie est bien existante et sous forme de chaine...
-      if (($identifiant_utilisateur === null || $password_utilisateur === null) && !empty($_POST) && array_key_exists('identifiant', $_POST) && array_key_exists('password', $_POST) && is_string($_POST['identifiant']) && is_string($_POST['password'])) {
-        // si la saisie de l'utilisateur correspond à un couple identifiant / mdp issu de la BDD...
-        if ($_POST['identifiant'] === $identifiants[$i] && $_POST['password'] === $mdps[$i]) {
-          // on récupère la saisie
-          $identifiant_utilisateur = htmlspecialchars($_POST["identifiant"]);
-          $password_utilisateur = htmlspecialchars($_POST["password"]);
-          // on déclare 2 variables de session
-          $_SESSION['log'] = [
-            "identifiant" => $identifiant_utilisateur,
-            "password" => $password_utilisateur
-          ];
-          // on redirige l'utilisateur vers l'espace utilisateur
-          echo "<script type='text/javascript'>window.location.replace('templates/espace_utilisateur.php');</script>";
+
+    // boucle pour parcourir le tableau $identifiants 
+    foreach ($identifiants as $key => $value) {
+      foreach ($value as $key1 => $value1) {
+        
+        // test sir la valeur du POST de clé "identifiant" correspond à $value1 du tableau $identifiants
+        if ($_POST['identifiant'] === $value1) {
+          // ajoute les deux clés dans des variables
+          $cle_nom = $key1;
+          $cle_type_nom = $key;
         }
       }
     }
 
-    var_dump($_SESSION);
+    // boucle pour parcourir le tableau $mdps 
+    foreach ($mdps as $key => $value) {
+      foreach ($value as $key1 => $value1) {
+
+        // test sir la valeur du POST de clé "password" correspond à $value1 du tableau $mdps
+        if ($_POST['password'] === $value1) {
+          // ajoute les deux clés dans des variables
+          $cle_password = $key1;
+          $cle_type_password = $key;
+        }
+      }
+    }
+
+    // si on n'a pas encore récupéré la saisie de l'utilisateur, et que sa saisie est bien existante et sous forme de chaine...
+    if (($identifiant_utilisateur === null || $password_utilisateur === null) && !empty($_POST) && array_key_exists('identifiant', $_POST) && array_key_exists('password', $_POST) && is_string($_POST['identifiant']) && is_string($_POST['password'])) {
+      // test des clés des deux tableaux $identifiants et $mdps
+      if ($cle_nom === $cle_password && $cle_type_nom === $cle_type_password) {
+        // on récupère la saisie
+        $identifiant_utilisateur = htmlspecialchars($_POST["identifiant"]);
+        $password_utilisateur = htmlspecialchars($_POST["password"]);
+  
+        // on déclare 3 variables de session
+        $_SESSION['log'] = [
+          "identifiant" => $identifiant_utilisateur,
+          "password" => $password_utilisateur,
+          "type_utilisateur" => $cle_type_nom,
+        ];
+
+        // on redirige l'utilisateur vers l'espace utilisateur
+        echo "<script type='text/javascript'>window.location.replace('templates/espace_utilisateur.php');</script>";
+        
+      }
+    }
 
     // TODO
     // 
