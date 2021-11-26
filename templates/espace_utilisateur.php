@@ -46,7 +46,7 @@
                 </select>
               </div>
               <div class="nom_equipe">
-                <label for="nom_equipe">Nom de l'équipe : </label>
+                <label for="nom_equipe">Nom de l'équipe de l'entraineur: </label>
                 <input type="text" name="nom_equipe" id="nom_equipe">
               </div>
               <div class="categorie">
@@ -100,16 +100,10 @@
 
             <form class="form_president" action="espace_utilisateur.php" method="post">
               <fieldset>
-                <legend>Gestion de l'équipe (président)</legend>
+                <legend>Création d'équipe (président)</legend>
                 <div class="nom_equipe">
-                  <label for="nom_equipe">Equipe sélectionnée : </label>
-                  <select class="nom_equipe" name="nom_equipe" id="choix_equipe">
-                    <option value="">&nbsp;</option>
-                    <option value="equipe_1">Equipe 1</option>
-                    <option value="equipe_2">Equipe 2</option>
-                    <option value="equipe_3">Equipe 3</option>
-                    <option value="equipe_4">Equipe 4</option>
-                  </select>
+                  <label for="nom_equipe_crea">Nom de l'équipe : </label>
+                  <input type="text" name="nom_equipe" id="nom_equipe_crea">
                 </div>
                 <div class="categorie">
                   <label for="categorie">Catégorie : </label>
@@ -149,7 +143,7 @@
             <div class="formulaire_ajout_retrait_joueur">
               <form action="espace_utilisateur.php" method="post">
                 <fieldset>
-                  <legend>Ajout de joueur</legend>
+                  <legend>Ajout de joueur (président)</legend>
                   <div class="nom_joueur">
                     <label for="nom_joueur">Nom<span class="red">*</span> : </label>
                     <input type="text" name="nom_joueur" id="nom_joueur" required>
@@ -175,7 +169,7 @@
               </form>
               <form action="espace_utilisateur.php" method="post">
                 <fieldset>
-                  <legend>Retrait de joueur</legend>
+                  <legend>Retrait de joueur (président)</legend>
                   <div class="joueur">
                     <label for="joueur">Nom du joueur<span class="red">*</span> : </label>
                     <select class="joueur" name="joueur" id="joueur" required>
