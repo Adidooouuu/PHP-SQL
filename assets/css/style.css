@@ -108,6 +108,7 @@ input
 .nav_membre
 {
   display : flex;
+  justify-content: flex-end;
 }
 
 .btn-primary_membre
