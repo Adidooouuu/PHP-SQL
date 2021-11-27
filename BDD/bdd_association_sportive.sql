@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1:3306
--- Généré le : ven. 26 nov. 2021 à 21:53
+-- Généré le : sam. 27 nov. 2021 à 18:08
 -- Version du serveur :  5.7.31
 -- Version de PHP : 7.3.21
 
@@ -104,7 +104,6 @@ CREATE TABLE IF NOT EXISTS `entraineur` (
 
 INSERT INTO `entraineur` (`id`, `nom_ent`, `prenom_ent`, `id_equipe`, `identifiant_ent`, `mdp_ent`) VALUES
 (1, 'ROLL', 'Rick', 1, 'RickR', '4m_N@/Gn-G1v_U_uP'),
-(2, 'LECON1', 'Jeant1', 2, '2122', '12121'),
 (3, 'SMITH', 'Lili-Rose', 5, 'LiliRS', 'K0u1Z_N'),
 (4, 'OUAGOUNE', 'Tomas', 6, 'TomasO', 'Tshutshu'),
 (5, 'GOLDSTAR', 'Sam', 7, 'SamG', 'G0lDsT4r'),
