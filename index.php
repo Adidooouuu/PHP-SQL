@@ -227,7 +227,7 @@ session_start();
     foreach ($identifiants as $key => $value) {
       foreach ($value as $key1 => $value1) {
         
-        // test sir la valeur du POST de clé "identifiant" correspond à $value1 du tableau $identifiants
+        // test si la valeur du POST de clé "identifiant" correspond à $value1 du tableau $identifiants
         if ($_POST['identifiant'] === $value1) {
           // ajoute les deux clés dans des variables
           $cle_nom = $key1;
@@ -240,7 +240,7 @@ session_start();
     foreach ($mdps as $key => $value) {
       foreach ($value as $key1 => $value1) {
 
-        // test sir la valeur du POST de clé "password" correspond à $value1 du tableau $mdps
+        // test si la valeur du POST de clé "password" correspond à $value1 du tableau $mdps
         if ($_POST['password'] === $value1) {
           // ajoute les deux clés dans des variables
           $cle_password = $key1;
@@ -274,12 +274,6 @@ session_start();
     // 
     // si l'utilisateur est déjà connecté, il faudrait remplacer le bouton "connexion" par "espace utilisateur" sur la page d'accueil
     // (en l'état, il est possible de se reconnecter alors qu'on l'est déjà...)
-    // 
-    // il faudrait envoyer vers la page "espace_utilisateur" une information concernant le type d'utilisateur connecté :
-    // president, entraineur, joueur
-    // pour pouvoir personnaliser l'affichage de l'espace utilisateur
-    // peut-être en variable de session ?
-    // quoiqu'il y a déjà l'identifiant et le mot de passe en variable de session, peut-être que ça peut être exploité en ce sens ?
     // 
     // afficher des erreurs en cas de saisie incorrecte du formulaire de connexion (dans la fenêtre modale)
 

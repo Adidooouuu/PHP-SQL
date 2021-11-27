@@ -1,6 +1,12 @@
 <?php
 session_start();
+
+  ini_set("display_errors", "Off");
+  ini_set("log_errors", "On");
+  ini_set("error_log", dirname(__file__)."/../logs/log_error_php.txt");
+
 ?>
+
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
   <head>
@@ -21,7 +27,14 @@ session_start();
       <div class="main_centered flex">
       <?php
 
+      // GESTION DE L'AFFICHAGE ET DES FONCTIONNALITES SELON LE TYPE D'UTILISATEUR CONNECTE
+
+      // On charge le fichier permettant de se connecter à la bdd
+      include 'connexion.php';
+
       if (!empty($_SESSION['log']['type_utilisateur']) && array_key_exists('type_utilisateur', $_SESSION['log']) && is_string($_SESSION['log']['type_utilisateur'])) {
+
+        // pour ENTRAINEUR
         if ($_SESSION['log']['type_utilisateur'] === "entraineur") {
           echo '
           <section id="entraineur">
@@ -80,7 +93,16 @@ session_start();
           </section>
         ';
         }
+
+        // pour PRESIDENT
         if ($_SESSION['log']['type_utilisateur'] === "president") {
+
+          // on récupère entièrement la table des joueurs pour pouvoir voir la liste
+          // pour en retirer
+          $requete_joueur = $bdd->query('SELECT * FROM joueur');
+          // idem pour les entraineurs
+          $requete_entraineur = $bdd->query('SELECT * FROM entraineur');
+
           echo '
           <section id="president">
 
@@ -127,7 +149,7 @@ session_start();
             </form>
 
             <div class="formulaire_ajout_retrait_joueur">
-              <form action="espace_utilisateur.php" method="post">
+              <form action="ajout_joueur.php" method="post">
                 <fieldset>
                   <legend>Ajout de joueur</legend>
                   <div class="nom_joueur">
@@ -140,7 +162,7 @@ session_start();
                   </div>
                   <div class="age">
                     <label for="age">Age<span class="red">*</span> : </label>
-                    <input type="text" name="age" id="age" required>
+                    <input type="number" name="age" id="age" required>
                   </div>
                   <div class="identifiant_connexion">
                     <label for="identifiant_connexion">Attribuer un identifiant de connexion<span class="red">*</span> : </label>
@@ -155,18 +177,27 @@ session_start();
               </form>
               <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
               <hr>
-              <form action="espace_utilisateur.php" method="post">
+              <form action="suppression_joueur.php" method="post">
                 <fieldset>
                   <legend>Retrait de joueur</legend>
                   <div class="joueur">
                     <label for="joueur">Nom du joueur<span class="red">*</span> : </label>
                     <select class="joueur" name="joueur" id="joueur" required>
-                      <option value="">&nbsp;</option>
-                      <option value="nom_joueur_1">Joueur 1</option>
-                      <option value="nom_joueur_2">Joueur 2</option>
-                      <option value="nom_joueur_3">Joueur 3</option>
-                      <option value="nom_joueur_4">Joueur 4</option>
-                    </select>
+                      <option value="">&nbsp;</option>';
+                      // ici on boucle les joueurs
+                      while ($data_joueur = $requete_joueur->fetch()) {
+                        if (!$data_joueur) {
+                          // s'il y en a aucun on affiche cette erreur
+                          echo '<option>La liste des joueurs n\'existe pas ou est vide.</option>';
+                          break;
+                        }
+                        else {
+                          // sinon on affiche prénom / nom du joueur dans la liste d'options, avec son id en tant que value (unique)
+                          // que l'on va récupérer ensuite avec $_POST['joueur']
+                          echo "<option value=".$data_joueur["id"].">".$data_joueur["prenom_joueur"]." ".$data_joueur["nom_joueur"]."</option>";
+                        }
+                      }
+                      echo '</select>
                   </div>
                   <div class="mot_de_passe_president">
                     <label for="mot_de_passe_president">Mot de passe "Président"<span class="red">*</span> : </label>
