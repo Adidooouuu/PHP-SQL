@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.1.1
+-- version 5.0.2
 -- https://www.phpmyadmin.net/
 --
--- Hôte : 127.0.0.1
--- Généré le : sam. 20 nov. 2021 à 01:41
--- Version du serveur : 10.4.21-MariaDB
--- Version de PHP : 8.0.12
+-- Hôte : 127.0.0.1:3306
+-- Généré le : sam. 27 nov. 2021 à 18:08
+-- Version du serveur :  5.7.31
+-- Version de PHP : 7.3.21
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -27,11 +27,13 @@ SET time_zone = "+00:00";
 -- Structure de la table `categorie`
 --
 
-CREATE TABLE `categorie` (
-  `id` int(11) UNSIGNED NOT NULL,
+DROP TABLE IF EXISTS `categorie`;
+CREATE TABLE IF NOT EXISTS `categorie` (
+  `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `nom_categorie` varchar(25) NOT NULL,
-  `tranche_age` varchar(10) NOT NULL COMMENT 'ex :18 - 25'
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+  `tranche_age` varchar(10) NOT NULL COMMENT 'ex :18 - 25',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8;
 
 --
 -- Déchargement des données de la table `categorie`
@@ -59,13 +61,17 @@ INSERT INTO `categorie` (`id`, `nom_categorie`, `tranche_age`) VALUES
 -- Structure de la table `entrainement`
 --
 
-CREATE TABLE `entrainement` (
-  `id` int(11) UNSIGNED NOT NULL,
+DROP TABLE IF EXISTS `entrainement`;
+CREATE TABLE IF NOT EXISTS `entrainement` (
+  `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_equipe_1` int(11) UNSIGNED NOT NULL,
   `id_equipe_2` int(11) UNSIGNED NOT NULL,
   `lieu` varchar(50) NOT NULL COMMENT 'stade - ville',
-  `date_heure` datetime NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+  `date_heure` datetime NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `id_equipe_2` (`id_equipe_2`),
+  KEY `id_equipe_1` (`id_equipe_1`) USING BTREE
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 
 --
 -- Déchargement des données de la table `entrainement`
@@ -80,21 +86,33 @@ INSERT INTO `entrainement` (`id`, `id_equipe_1`, `id_equipe_2`, `lieu`, `date_he
 -- Structure de la table `entraineur`
 --
 
-CREATE TABLE `entraineur` (
-  `id` int(11) UNSIGNED NOT NULL,
+DROP TABLE IF EXISTS `entraineur`;
+CREATE TABLE IF NOT EXISTS `entraineur` (
+  `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `nom_ent` varchar(25) NOT NULL,
   `prenom_ent` varchar(25) NOT NULL,
   `id_equipe` int(11) UNSIGNED NOT NULL,
   `identifiant_ent` varchar(25) NOT NULL COMMENT 'Pour le login uniquement',
-  `mdp_ent` varchar(25) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+  `mdp_ent` varchar(25) NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `id_equipe` (`id_equipe`)
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8;
 
 --
 -- Déchargement des données de la table `entraineur`
 --
 
 INSERT INTO `entraineur` (`id`, `nom_ent`, `prenom_ent`, `id_equipe`, `identifiant_ent`, `mdp_ent`) VALUES
-(1, 'LECON', 'Jean', 1, 'JeanLECON', 'AZERTY');
+(1, 'ROLL', 'Rick', 1, 'RickR', '4m_N@/Gn-G1v_U_uP'),
+(3, 'SMITH', 'Lili-Rose', 5, 'LiliRS', 'K0u1Z_N'),
+(4, 'OUAGOUNE', 'Tomas', 6, 'TomasO', 'Tshutshu'),
+(5, 'GOLDSTAR', 'Sam', 7, 'SamG', 'G0lDsT4r'),
+(6, 'MOMAH', 'Brigitte', 8, 'BrigitteM', 'W0uTsh1'),
+(7, 'CYRIAL-LIGNIQUE', 'Sissy', 9, 'SissyCL', 'C_kr0k-n'),
+(8, 'PÉKINOIS', 'Lou', 10, 'LouP', 'S1T-P/PL'),
+(9, 'CRISE', 'Jésus', 11, 'JesusC', 'AnCpQiPmf@'),
+(10, 'TRISTE', 'Jésus', 12, 'JesusT', '@nCpQcMiPMF-'),
+(11, 'PERRUCHE', 'Lucy', 1, 'LucyP', 'Ess@f4i_B1MB-MB0Om');
 
 -- --------------------------------------------------------
 
@@ -102,19 +120,30 @@ INSERT INTO `entraineur` (`id`, `nom_ent`, `prenom_ent`, `id_equipe`, `identifia
 -- Structure de la table `equipe`
 --
 
-CREATE TABLE `equipe` (
-  `id` int(11) UNSIGNED NOT NULL,
+DROP TABLE IF EXISTS `equipe`;
+CREATE TABLE IF NOT EXISTS `equipe` (
+  `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `nom_equipe` varchar(25) CHARACTER SET utf8 NOT NULL,
-  `id_categorie` int(11) UNSIGNED NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+  `id_categorie` int(11) UNSIGNED NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `id_categorie` (`id_categorie`)
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8mb4;
 
 --
 -- Déchargement des données de la table `equipe`
 --
 
 INSERT INTO `equipe` (`id`, `nom_equipe`, `id_categorie`) VALUES
-(1, 'LES BOSS', 4),
-(2, 'LES BG', 5);
+(1, 'Corsaires Inventifs', 1),
+(2, 'Miracles Argentés', 2),
+(5, 'Royaux', 3),
+(6, 'Orages Courageux', 4),
+(7, 'Rouges-Gorges Sérieux', 5),
+(8, 'Aigles', 6),
+(9, 'Monarques Célestes', 7),
+(10, 'Ocelots Inouïs', 8),
+(11, 'Robots Géniaux', 9),
+(12, 'Gigantesques', 10);
 
 -- --------------------------------------------------------
 
@@ -122,23 +151,36 @@ INSERT INTO `equipe` (`id`, `nom_equipe`, `id_categorie`) VALUES
 -- Structure de la table `joueur`
 --
 
-CREATE TABLE `joueur` (
-  `id` int(11) UNSIGNED NOT NULL,
+DROP TABLE IF EXISTS `joueur`;
+CREATE TABLE IF NOT EXISTS `joueur` (
+  `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `nom_joueur` varchar(25) NOT NULL,
   `prenom_joueur` varchar(25) NOT NULL,
   `age_joueur` tinyint(2) NOT NULL,
   `id_equipe` int(11) UNSIGNED NOT NULL,
   `identifiant_joueur` varchar(25) NOT NULL COMMENT 'Pour le login uniquement',
-  `mdp_joueur` varchar(25) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+  `mdp_joueur` varchar(25) NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `id_equipe` (`id_equipe`)
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8;
 
 --
 -- Déchargement des données de la table `joueur`
 --
 
 INSERT INTO `joueur` (`id`, `nom_joueur`, `prenom_joueur`, `age_joueur`, `id_equipe`, `identifiant_joueur`, `mdp_joueur`) VALUES
-(1, 'Gaming', 'Titouan', 12, 1, 'TitouanG', 'pass_word'),
-(2, 'LOL', 'LOL', 15, 2, 'LOL', 'azerty');
+(1, 'MENVUSSA', 'Gérard', 12, 1, 'GerardM', 'jivouari1_4Y4Y'),
+(2, 'DEUSSAVOUA', 'Tom', 15, 2, 'TomD', 'D0ubleCh1zz'),
+(3, 'PEPAY', 'Gilles', 15, 1, 'GillesP', 'D_Z4rouA'),
+(4, 'CLAQUAIS', 'Robernard', 40, 2, 'RobC', 'P3digrEe_OOF'),
+(5, 'CATAPOUTTE', 'Jessicaren', 30, 5, 'JessC', '3ye_L1nAH'),
+(6, 'ETCHEPOUËT', 'Philippe', 25, 5, 'PhilE', '0h/C_kxns@'),
+(7, 'DEGNIART', 'Bronis', 49, 6, 'BronisD', 'H0m_Kxnstrui/AH'),
+(8, 'IFADIA	', 'Fadi', 24, 6, 'FadiI', 'Ch3rN0B-L'),
+(9, 'Monte-Hanié', 'Gilbert', 27, 7, 'GilbertM', 'F3st1vAL-Kn'),
+(10, 'TRAILLETTE', 'Amy', 37, 7, 'AmyT', 'R4tat@'),
+(11, 'LAMPALED', 'Stracy', 36, 8, 'StracyL', 'J4NoSkuRre'),
+(12, 'SAINTI', 'Ignace', 46, 8, 'IgnaceS', 'F3At_l-O2');
 
 -- --------------------------------------------------------
 
@@ -146,12 +188,15 @@ INSERT INTO `joueur` (`id`, `nom_joueur`, `prenom_joueur`, `age_joueur`, `id_equ
 -- Structure de la table `match`
 --
 
-CREATE TABLE `match` (
-  `id` int(11) UNSIGNED NOT NULL,
+DROP TABLE IF EXISTS `match`;
+CREATE TABLE IF NOT EXISTS `match` (
+  `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `id_equipe` int(11) UNSIGNED NOT NULL,
   `lieu` varchar(50) NOT NULL COMMENT 'stade - ville',
-  `date_heure` datetime NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+  `date_heure` datetime NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `id_equipe_bis` (`id_equipe`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 
 --
 -- Déchargement des données de la table `match`
@@ -166,13 +211,15 @@ INSERT INTO `match` (`id`, `id_equipe`, `lieu`, `date_heure`) VALUES
 -- Structure de la table `president`
 --
 
-CREATE TABLE `president` (
-  `id` int(11) UNSIGNED NOT NULL,
+DROP TABLE IF EXISTS `president`;
+CREATE TABLE IF NOT EXISTS `president` (
+  `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `nom_pres` varchar(25) NOT NULL,
   `prenom_pres` varchar(25) NOT NULL,
   `identifiant_pres` varchar(25) NOT NULL COMMENT 'Pour le login uniquement',
-  `mdp_pres` varchar(25) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+  `mdp_pres` varchar(25) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 
 --
 -- Déchargement des données de la table `president`
@@ -180,104 +227,6 @@ CREATE TABLE `president` (
 
 INSERT INTO `president` (`id`, `nom_pres`, `prenom_pres`, `identifiant_pres`, `mdp_pres`) VALUES
 (1, 'ZEMMOUR', 'Eric', 'EricZ', 'Ben_Voyons');
-
---
--- Index pour les tables déchargées
---
-
---
--- Index pour la table `categorie`
---
-ALTER TABLE `categorie`
-  ADD PRIMARY KEY (`id`);
-
---
--- Index pour la table `entrainement`
---
-ALTER TABLE `entrainement`
-  ADD PRIMARY KEY (`id`),
-  ADD KEY `id_equipe_2` (`id_equipe_2`),
-  ADD KEY `id_equipe_1` (`id_equipe_1`) USING BTREE;
-
---
--- Index pour la table `entraineur`
---
-ALTER TABLE `entraineur`
-  ADD PRIMARY KEY (`id`),
-  ADD KEY `id_equipe` (`id_equipe`);
-
---
--- Index pour la table `equipe`
---
-ALTER TABLE `equipe`
-  ADD PRIMARY KEY (`id`),
-  ADD KEY `id_categorie` (`id_categorie`);
-
---
--- Index pour la table `joueur`
---
-ALTER TABLE `joueur`
-  ADD PRIMARY KEY (`id`),
-  ADD KEY `id_equipe` (`id_equipe`);
-
---
--- Index pour la table `match`
---
-ALTER TABLE `match`
-  ADD PRIMARY KEY (`id`),
-  ADD KEY `id_equipe_bis` (`id_equipe`);
-
---
--- Index pour la table `president`
---
-ALTER TABLE `president`
-  ADD PRIMARY KEY (`id`);
-
---
--- AUTO_INCREMENT pour les tables déchargées
---
-
---
--- AUTO_INCREMENT pour la table `categorie`
---
-ALTER TABLE `categorie`
-  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
-
---
--- AUTO_INCREMENT pour la table `entrainement`
---
-ALTER TABLE `entrainement`
-  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT pour la table `entraineur`
---
-ALTER TABLE `entraineur`
-  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT pour la table `equipe`
---
-ALTER TABLE `equipe`
-  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-
---
--- AUTO_INCREMENT pour la table `joueur`
---
-ALTER TABLE `joueur`
-  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-
---
--- AUTO_INCREMENT pour la table `match`
---
-ALTER TABLE `match`
-  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT pour la table `president`
---
-ALTER TABLE `president`
-  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- Contraintes pour les tables déchargées
