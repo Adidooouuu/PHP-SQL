@@ -4,7 +4,7 @@ session_start();
   ini_set("display_errors", "Off");
   ini_set("log_errors", "On");
   ini_set("error_log", dirname(__file__)."/../logs/log_error_php.txt");
-  var_dump($_SESSION);
+  // var_dump($_SESSION);
 ?>
 
 <!DOCTYPE html>
@@ -105,10 +105,11 @@ session_start();
         if ($_SESSION['log']['type_utilisateur'] === "president") {
 
           // on récupère entièrement la table des joueurs pour pouvoir voir la liste
-          // pour en retirer
           $requete_joueur = $bdd->query('SELECT * FROM joueur');
           // idem pour les entraineurs
           $requete_entraineur = $bdd->query('SELECT * FROM entraineur');
+          // idem pour les catégories
+          $requete_categorie = $bdd->query('SELECT * FROM categorie');
 
           $nom_pres = $bdd->query( 'SELECT * from president WHERE identifiant_pres="'.$_SESSION['log']['identifiant'].'"'); //est censé prendre son nom
           $prenom_pres = $bdd->query('SELECT * FROM president WHERE identifiant_pres="'.$_SESSION['log']['identifiant'].'"'); //idem pour son prénom
@@ -119,7 +120,7 @@ session_start();
             Bienvenue<br>' .$_SESSION['log']['identifiant']."<br>" .$_SESSION['log']['type_utilisateur'].
             '
           </p>
-            <form class="form_president" action="espace_utilisateur.php" method="post">
+            <form class="form_president" action="ajout_equipe.php" method="post">
               <fieldset>
                 <legend>Création d\'équipe</legend>
                 <div class="nom_equipe">
@@ -129,34 +130,42 @@ session_start();
                 <div class="categorie">
                   <label for="categorie">Catégorie<span class="red">*</span> : </label>
                   <select class="categorie" name="categorie" id="categorie_president" required>
-                    <option value="">&nbsp;</option>
-                    <option value="minibad">MiniBad</option>
-                    <option value="poussins">Poussins</option>
-                    <option value="benjamins">Benjamins</option>
-                    <option value="minimes">Minimes</option>
-                    <option value="cadets">Cadets</option>
-                    <option value="juniors">Juniors</option>
-                    <option value="seniors">Seniors</option>
-                    <option value="veteran_1">Vétéran 1</option>
-                    <option value="veteran_2">Vétéran 2</option>
-                    <option value="veteran_3">Vétéran 3</option>
-                    <option value="veteran_4">Vétéran 4</option>
-                    <option value="veteran_6">Vétéran 6</option>
-                    <option value="veteran_7">Vétéran 7</option>
-                    <option value="veteran_8">Vétéran 8</option>
-                  </select>
+                    <option value="">&nbsp;</option>';
+                    // ici on boucle les catégories
+                    while ($data_categ = $requete_categorie->fetch()) {
+                      if (!$data_categ) {
+                        // s'il y en a aucun on affiche cette erreur
+                        echo '<option>La liste des catégories n\'existe pas ou est vide.</option>';
+                        break;
+                      }
+                      else {
+                        // sinon on affiche nom de la catégorie dans la liste d'options, avec son id en tant que value (unique)
+                        // que l'on va récupérer ensuite avec $_POST['categorie']
+                        echo "<option value=".$data_categ["id"].">".$data_categ["nom_categorie"]."</option>";
+                      }
+                    }
+                    echo '</select>
                 </div>
                 <div class="entraineur">
                   <label for="entraineur">Entraineur<span class="red">*</span> : </label>
                   <select class="entraineur" name="entraineur" id="nom_entraineur" required>
-                    <option value="">&nbsp;</option>
-                    <option value="identifiant_entraineur">Entraineur 1</option>
-                    <option value="identifiant_entraineur">Entraineur 2</option>
-                    <option value="identifiant_entraineur">Entraineur 3</option>
-                    <option value="identifiant_entraineur">Entraineur 4</option>
-                  </select>
+                    <option value="">&nbsp;</option>';
+                    // ici on boucle les entraîneurs
+                    while ($data_entraineur = $requete_entraineur->fetch()) {
+                      if (!$data_entraineur) {
+                        // s'il y en a aucun on affiche cette erreur
+                        echo '<option>La liste des entraîneurs n\'existe pas ou est vide.</option>';
+                        break;
+                      }
+                      else {
+                        // sinon on affiche prénom / nom de l'entraîneur dans la liste d'options, avec son id en tant que value (unique)
+                        // que l'on va récupérer ensuite avec $_POST['entraineur']
+                        echo "<option value=".$data_entraineur["id"].">".$data_entraineur["prenom_ent"]." ".$data_entraineur["nom_ent"]."</option>";
+                      }
+                    }
+                    echo '</select>
                 </div>
-                <button class="button" type="submit" name="button">Modifier l\'équipe</button>
+                <button class="button" type="submit" name="button">Créer l\'équipe</button>
                 <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
               </fieldset>
             </form>
