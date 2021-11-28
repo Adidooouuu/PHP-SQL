@@ -232,7 +232,7 @@ session_start();
     // boucle pour parcourir le tableau $identifiants 
     foreach ($identifiants as $key => $value) {
       foreach ($value as $key1 => $value1) {
-        
+
         // test si la valeur du POST de clé "identifiant" correspond à $value1 du tableau $identifiants
         if ($_POST['identifiant'] === $value1) {
           // ajoute les deux clés dans des variables
@@ -260,7 +260,7 @@ session_start();
     // si on n'a pas encore récupéré la saisie de l'utilisateur, et que sa saisie est bien existante et sous forme de chaine...
     if (($identifiant_utilisateur === null || $password_utilisateur === null) && !empty($_POST) && array_key_exists('identifiant', $_POST) && array_key_exists('password', $_POST) && is_string($_POST['identifiant']) && is_string($_POST['password'])) {
       // test des clés des deux tableaux $identifiants et $mdps
-      if ($cle_nom === $cle_password && $cle_type_nom === $cle_type_password) {
+      if ($cle_nom === $cle_password && $cle_type_nom === $cle_type_password && !is_null($cle_nom) && !is_null($cle_password) && !is_null($cle_type_nom) && !is_null($cle_type_password)) {
         // on récupère la saisie
         $identifiant_utilisateur = htmlspecialchars($_POST["identifiant"]);
         $password_utilisateur = htmlspecialchars($_POST["password"]);
