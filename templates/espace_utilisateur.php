@@ -48,12 +48,18 @@ session_start();
         // pour ENTRAINEUR
         if ($_SESSION['log']['type_utilisateur'] === "entraineur") {
 
+          // on récupère entièrement la table des joueurs pour pouvoir voir la liste
+          $requete_joueur1 = $bdd->query('SELECT * FROM joueur');
+          $requete_joueur2 = $bdd->query('SELECT * FROM joueur');
+          // idem pour les catégories
+          $requete_categorie_equipe = $bdd->query('SELECT * FROM categorie');
+
           $nom_ent = $bdd->query( 'SELECT * from entraineur WHERE identifiant_ent="'.$_SESSION['log']['identifiant'].'"'); //est censé prendre son nom
           $prenom_ent = $bdd->query('SELECT * FROM entraineur WHERE identifiant_ent="'.$_SESSION['log']['identifiant'].'"'); //idem pour son prénom
           //Du coup, pour dépanner si ça bugue, ↓
           echo '
           <section id="entraineur">
-            <form class="form_team_management" action="espace_utilisateur.php" method="post">
+            <form class="form_team_management" action="gestion_equipe.php" method="post">
               <fieldset>
                 <legend>Gestion de l\'équipe</legend>
                 <p>Votre équipe : </p> <?php //TODO : appeler le nom de l\'équipe?>
@@ -64,41 +70,61 @@ session_start();
                 <div class="categorie">
                   <label for="categorie">Catégorie : </label>
                   <select class="categorie" name="categorie" id="categorie">
-                    <option value="">&nbsp;</option>
-                    <option value="minibad">MiniBad</option>
-                    <option value="poussins">Poussins</option>
-                    <option value="benjamins">Benjamins</option>
-                    <option value="minimes">Minimes</option>
-                    <option value="cadets">Cadets</option>
-                    <option value="juniors">Juniors</option>
-                    <option value="seniors">Seniors</option>
-                    <option value="veteran_1">Vétéran 1</option>
-                    <option value="veteran_2">Vétéran 2</option>
-                    <option value="veteran_3">Vétéran 3</option>
-                    <option value="veteran_4">Vétéran 4</option>
-                    <option value="veteran_6">Vétéran 6</option>
-                    <option value="veteran_7">Vétéran 7</option>
-                    <option value="veteran_8">Vétéran 8</option>
+                    <option value="">&nbsp;</option>';
+                    // ici on boucle les catégories
+                    while ($all_categories = $requete_categorie_equipe->fetch()) {
+                      if (!$all_categories) {
+                        // s'il y en a aucun on affiche cette erreur
+                        echo '<option>La liste des catégories n\'existe pas ou est vide.</option>';
+                        break;
+                      }
+                      else {
+                        // sinon on affiche nom de la catégorie dans la liste d'options, avec son id en tant que value (unique)
+                        // que l'on va récupérer ensuite avec $_POST['categorie']
+                        echo "<option value=".$all_categories["id"].">".$all_categories["nom_categorie"]."</option>";
+                      }
+                    }
+                    echo '
                   </select>
                 </div>
                 <div class="joueur_1">
                   <label for="joueur_1">Joueur 1 : </label>
                   <select class="joueur_1" name="joueur_1" id="joueur_1">
-                    <option value="">&nbsp;</option>
-                    <option value="identifiant_joueur_1">Joueur 1</option>
-                    <option value="identifiant_joueur_2">Joueur 2</option>
-                    <option value="identifiant_joueur_3">Joueur 3</option>
-                    <option value="identifiant_joueur_4">Joueur 4</option>
+                    <option value="">&nbsp;</option>';
+                    // ici on boucle les joueurs
+                    while ($all_players1 = $requete_joueur1->fetch()) {
+                      if (!$all_players1) {
+                        // s'il y en a aucun on affiche cette erreur
+                        echo '<option>La liste des joueurs n\'existe pas ou est vide.</option>';
+                        break;
+                      }
+                      else {
+                        // sinon on affiche prénom / nom du joueur dans la liste d'options, avec son id en tant que value (unique)
+                        // que l'on va récupérer ensuite avec $_POST['joueur']
+                        echo "<option value=".$all_players1["id"].">".$all_players1["prenom_joueur"]." ".$all_players1["nom_joueur"]."</option>";
+                      }
+                    }
+                    echo '
                   </select>
                 </div>
                 <div class="joueur_2">
                   <label for="joueur_2">Joueur 2 : </label>
                   <select class="joueur_2" name="joueur_2" id="joueur_2">
-                    <option value="">&nbsp;</option>
-                    <option value="identifiant_joueur_1">Joueur 1</option>
-                    <option value="identifiant_joueur_2">Joueur 2</option>
-                    <option value="identifiant_joueur_3">Joueur 3</option>
-                    <option value="identifiant_joueur_4">Joueur 4</option>
+                    <option value="">&nbsp;</option>';
+                    // ici on boucle les joueurs
+                    while ($all_players2 = $requete_joueur2->fetch()) {
+                      if (!$all_players2) {
+                        // s'il y en a aucun on affiche cette erreur
+                        echo '<option>La liste des joueurs n\'existe pas ou est vide.</option>';
+                        break;
+                      }
+                      else {
+                        // sinon on affiche prénom / nom du joueur dans la liste d'options, avec son id en tant que value (unique)
+                        // que l'on va récupérer ensuite avec $_POST['joueur']
+                        echo "<option value=".$all_players2["id"].">".$all_players2["prenom_joueur"]." ".$all_players2["nom_joueur"]."</option>";
+                      }
+                    }
+                    echo '
                   </select>
                 </div>
                 <button class="button" type="submit" name="button">Modifier l\'équipe</button>

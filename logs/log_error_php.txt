@@ -5173,3 +5173,1878 @@
 [28-Nov-2021 17:00:43 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php on line 252
 [28-Nov-2021 17:00:43 UTC] PHP Stack trace:
 [28-Nov-2021 17:00:43 UTC] PHP   1. {main}() C:\wamp64\www\mapagephp\UE219\PHP-SQL\index.php:0
+[28-Nov-2021 18:27:58 UTC] PHP Notice:  Undefined index: prenom_utilisateur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 18:27:58 UTC] PHP Stack trace:
+[28-Nov-2021 18:27:58 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:27:58 UTC] PHP Notice:  Undefined index: nom_utilisateur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 18:27:58 UTC] PHP Stack trace:
+[28-Nov-2021 18:27:58 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:06 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:40:06 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:06 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:40:28 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:40:28 UTC] PHP Stack trace:
+[28-Nov-2021 18:40:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:43:11 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:43:11 UTC] PHP Stack trace:
+[28-Nov-2021 18:43:11 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:43:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:43:41 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:43:41 UTC] PHP Stack trace:
+[28-Nov-2021 18:43:41 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:43:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:45:48 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:45:48 UTC] PHP Stack trace:
+[28-Nov-2021 18:45:48 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:45:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:47:02 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:47:02 UTC] PHP Stack trace:
+[28-Nov-2021 18:47:02 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:47:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:47:54 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:47:54 UTC] PHP Stack trace:
+[28-Nov-2021 18:47:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:47:55 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:47:55 UTC] PHP Stack trace:
+[28-Nov-2021 18:47:55 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:47:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:49:09 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:49:09 UTC] PHP Stack trace:
+[28-Nov-2021 18:49:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:49:10 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:49:10 UTC] PHP Stack trace:
+[28-Nov-2021 18:49:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:00 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:00 UTC] PHP Stack trace:
+[28-Nov-2021 18:50:00 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:00 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:00 UTC] PHP Stack trace:
+[28-Nov-2021 18:50:00 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:00 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:00 UTC] PHP Stack trace:
+[28-Nov-2021 18:50:00 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:01 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:01 UTC] PHP Stack trace:
+[28-Nov-2021 18:50:01 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:50:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:10 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:10 UTC] PHP Stack trace:
+[28-Nov-2021 18:50:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:50:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:19 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:50:19 UTC] PHP Stack trace:
+[28-Nov-2021 18:50:19 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:50:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:42 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:42 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:47 UTC] PHP Notice:  Undefined variable: cle_nom in C:\wamp64\www\test\PHP-SQL\index.php on line 263
+[28-Nov-2021 18:52:47 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:47 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:47 UTC] PHP Notice:  Undefined variable: cle_password in C:\wamp64\www\test\PHP-SQL\index.php on line 263
+[28-Nov-2021 18:52:47 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:47 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:47 UTC] PHP Notice:  Undefined variable: cle_type_nom in C:\wamp64\www\test\PHP-SQL\index.php on line 263
+[28-Nov-2021 18:52:47 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:47 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:47 UTC] PHP Notice:  Undefined variable: cle_type_password in C:\wamp64\www\test\PHP-SQL\index.php on line 263
+[28-Nov-2021 18:52:47 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:47 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:47 UTC] PHP Notice:  Undefined variable: cle_type_nom in C:\wamp64\www\test\PHP-SQL\index.php on line 272
+[28-Nov-2021 18:52:47 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:47 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:47 UTC] PHP Notice:  Undefined variable: nom_utilisateur in C:\wamp64\www\test\PHP-SQL\index.php on line 273
+[28-Nov-2021 18:52:47 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:47 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:47 UTC] PHP Notice:  Undefined variable: prenom_utilisateur in C:\wamp64\www\test\PHP-SQL\index.php on line 274
+[28-Nov-2021 18:52:47 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:47 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:52 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:52 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:52:53 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:52:53 UTC] PHP Stack trace:
+[28-Nov-2021 18:52:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:54:00 UTC] PHP Notice:  Undefined variable: requete_joueur in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:54:00 UTC] PHP Stack trace:
+[28-Nov-2021 18:54:00 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:89
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 89
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:44 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:44 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:44 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:55:45 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:55:45 UTC] PHP Stack trace:
+[28-Nov-2021 18:55:45 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:23 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 18:58:23 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 18:58:34 UTC] PHP Notice:  Undefined variable: requete_categorie in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 68
+[28-Nov-2021 18:58:34 UTC] PHP Stack trace:
+[28-Nov-2021 18:58:34 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 18:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:68
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 68
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:07 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:36:07 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:07 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:11 UTC] PHP Notice:  Undefined variable: cle_password in C:\wamp64\www\test\PHP-SQL\index.php on line 263
+[28-Nov-2021 19:36:11 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:11 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:20 UTC] PHP Notice:  Undefined variable: cle_nom in C:\wamp64\www\test\PHP-SQL\index.php on line 263
+[28-Nov-2021 19:36:20 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:20 UTC] PHP Notice:  Undefined variable: cle_password in C:\wamp64\www\test\PHP-SQL\index.php on line 263
+[28-Nov-2021 19:36:20 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:20 UTC] PHP Notice:  Undefined variable: cle_type_nom in C:\wamp64\www\test\PHP-SQL\index.php on line 263
+[28-Nov-2021 19:36:20 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:20 UTC] PHP Notice:  Undefined variable: cle_type_password in C:\wamp64\www\test\PHP-SQL\index.php on line 263
+[28-Nov-2021 19:36:20 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:20 UTC] PHP Notice:  Undefined variable: cle_type_nom in C:\wamp64\www\test\PHP-SQL\index.php on line 272
+[28-Nov-2021 19:36:20 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:20 UTC] PHP Notice:  Undefined variable: nom_utilisateur in C:\wamp64\www\test\PHP-SQL\index.php on line 273
+[28-Nov-2021 19:36:20 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:36:20 UTC] PHP Notice:  Undefined variable: prenom_utilisateur in C:\wamp64\www\test\PHP-SQL\index.php on line 274
+[28-Nov-2021 19:36:20 UTC] PHP Stack trace:
+[28-Nov-2021 19:36:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 19:45:35 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 19:45:35 UTC] PHP Stack trace:
+[28-Nov-2021 19:45:35 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:41:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetch() in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:41:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetch() in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:42:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetch() in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:42:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetch() in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:08 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:08 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:08 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:09 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:09 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:10 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:10 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:19 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:19 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:19 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:19 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:19 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:19 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:19 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:19 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:19 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:20 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:20 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:20 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:20 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:20 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:20 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:20 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:20 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:20 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:20 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:20 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:21 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:21 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:21 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:21 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:21 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:21 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:21 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:21 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:21 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:21 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:21 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:21 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:21 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:21 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:21 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:52 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:53 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:53 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:53 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:53 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:53 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:53 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:53 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:53 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:53 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:54 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:54 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:54 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:43:59 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:43:59 UTC] PHP Stack trace:
+[28-Nov-2021 20:43:59 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:44:00 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:44:00 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:00 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:44:00 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:44:00 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:00 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:44:16 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:44:16 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:16 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:44:17 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:44:17 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:17 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:44:17 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:44:17 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:17 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:44:17 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:44:17 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:17 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:44:23 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:23 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:23 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:23 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:23 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 27
+[28-Nov-2021 20:44:23 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:23 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 29
+[28-Nov-2021 20:44:23 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:23 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 31
+[28-Nov-2021 20:44:23 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:23 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:25 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:25 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:25 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:25 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:25 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:25 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:25 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 27
+[28-Nov-2021 20:44:25 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:25 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:25 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 29
+[28-Nov-2021 20:44:25 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:25 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:26 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 31
+[28-Nov-2021 20:44:26 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:26 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 27
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 29
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 31
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 27
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 29
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 31
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:27 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:27 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:27 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 27
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 29
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 31
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 27
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 29
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 31
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:28 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:28 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:28 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:30 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:30 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:30 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:32 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:32 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:32 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:32 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 25
+[28-Nov-2021 20:44:32 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:32 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:32 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 27
+[28-Nov-2021 20:44:32 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:32 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:32 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 29
+[28-Nov-2021 20:44:32 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:32 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:32 UTC] PHP Notice:  Undefined index: log in C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php on line 31
+[28-Nov-2021 20:44:32 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:32 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\espace_utilisateur.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: identifiant in C:\wamp64\www\test\PHP-SQL\index.php on line 237
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:33 UTC] PHP Notice:  Undefined index: password in C:\wamp64\www\test\PHP-SQL\index.php on line 252
+[28-Nov-2021 20:44:33 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:33 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\index.php:0
+[28-Nov-2021 20:44:54 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 27
+[28-Nov-2021 20:44:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:44:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:55:54 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:55:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:55:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:55:54 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:55:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:55:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:55:54 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:55:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:55:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:55:54 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:55:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:55:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:55:54 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:55:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:55:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:55:54 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:55:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:55:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:55:54 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:55:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:55:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:55:54 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:55:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:55:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:55:54 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:55:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:55:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:55:54 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:55:54 UTC] PHP Stack trace:
+[28-Nov-2021 20:55:54 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:57:52 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:57:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:57:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:57:52 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:57:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:57:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:57:52 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:57:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:57:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:57:52 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:57:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:57:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:57:52 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:57:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:57:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:57:52 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:57:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:57:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:57:52 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:57:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:57:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:57:52 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:57:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:57:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:57:52 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:57:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:57:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:57:52 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:57:52 UTC] PHP Stack trace:
+[28-Nov-2021 20:57:52 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:09 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:09 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:09 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:10 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:10 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:10 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:56 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:56 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:56 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:56 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:56 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:56 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:56 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:56 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:56 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:56 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:56 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:56 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:56 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:56 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:56 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:56 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:56 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:56 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 20:58:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 40
+[28-Nov-2021 20:58:56 UTC] PHP Stack trace:
+[28-Nov-2021 20:58:56 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 21:00:37 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 33
+[28-Nov-2021 21:00:37 UTC] PHP Stack trace:
+[28-Nov-2021 21:00:37 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 21:00:42 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 33
+[28-Nov-2021 21:00:42 UTC] PHP Stack trace:
+[28-Nov-2021 21:00:42 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 21:00:43 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 33
+[28-Nov-2021 21:00:43 UTC] PHP Stack trace:
+[28-Nov-2021 21:00:43 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
+[28-Nov-2021 21:00:43 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php on line 33
+[28-Nov-2021 21:00:43 UTC] PHP Stack trace:
+[28-Nov-2021 21:00:43 UTC] PHP   1. {main}() C:\wamp64\www\test\PHP-SQL\templates\gestion_equipe.php:0
