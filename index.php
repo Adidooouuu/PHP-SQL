@@ -191,6 +191,8 @@ session_start();
         // dans les tableaux $identifiants et $mdps ajoute la variable $data des clés "identifiant_pres" et "mdp_pres" 
         $identifiants["president"][] = $data["identifiant_pres"];
         $mdps["president"][] = $data["mdp_pres"];
+        $nom["president"][] = $data["nom_pres"];
+        $prenom["president"][] = $data["prenom_pres"];
       }
     }
 
@@ -204,6 +206,8 @@ session_start();
       else {
         $identifiants["entraineur"][] = $data["identifiant_ent"];
         $mdps["entraineur"][] = $data["mdp_ent"];
+        $nom["entraineur"][] = $data["nom_ent"];
+        $prenom["entraineur"][] = $data["prenom_ent"];
       }
     }
 
@@ -215,6 +219,8 @@ session_start();
       else {
         $identifiants["joueur"][] = $data["identifiant_joueur"];
         $mdps["joueur"][] = $data["mdp_joueur"];
+        $nom["joueur"][] = $data["nom_joueur"];
+        $prenom["joueur"][] = $data["prenom_joueur"];
       }
     }
 
@@ -232,6 +238,8 @@ session_start();
           // ajoute les deux clés dans des variables
           $cle_nom = $key1;
           $cle_type_nom = $key;
+          $nom_utilisateur = $nom[$key][$key1];
+          $prenom_utilisateur = $prenom[$key][$key1];
         }
       }
     }
@@ -262,6 +270,8 @@ session_start();
           "identifiant" => $identifiant_utilisateur,
           "password" => $password_utilisateur,
           "type_utilisateur" => $cle_type_nom,
+          "nom_utilisateur" => $nom_utilisateur,
+          "prenom_utilisateur" => $prenom_utilisateur
         ];
 
         // on redirige l'utilisateur vers l'espace utilisateur
