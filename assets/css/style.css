@@ -121,7 +121,19 @@ legend{
 .nav_membre
 {
   display : flex;
-  justify-content: flex-end;
+  justify-content: space-between;
+}
+
+.espace-membre{
+  align-self: center;
+}
+
+.espace-membre:first-child{
+  margin-left: 12px;
+}
+
+.espace-membre:nth-child(2){
+  margin-right: 8rem;
 }
 
 .btn-primary_membre
