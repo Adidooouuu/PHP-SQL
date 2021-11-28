@@ -42,8 +42,6 @@ session_start();
       <div class="main_centered flex">
       <?php
 
-      var_dump($_SESSION);
-
       // GESTION DE L'AFFICHAGE ET DES FONCTIONNALITES SELON LE TYPE D'UTILISATEUR CONNECTE
 
       // On charge le fichier permettant de se connecter à la bdd
