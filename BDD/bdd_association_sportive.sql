@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1:3306
--- Généré le : sam. 27 nov. 2021 à 20:41
+-- Généré le : Dim 28 nov. 2021 à 21:06
 -- Version du serveur :  5.7.31
 -- Version de PHP : 7.3.21
 
@@ -71,21 +71,19 @@ CREATE TABLE IF NOT EXISTS `entraineur` (
   `mdp_ent` varchar(25) NOT NULL,
   PRIMARY KEY (`id`),
   KEY `id_equipe` (`id_equipe`)
-) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8;
 
 --
 -- Déchargement des données de la table `entraineur`
 --
 
 INSERT INTO `entraineur` (`id`, `nom_ent`, `prenom_ent`, `id_equipe`, `identifiant_ent`, `mdp_ent`) VALUES
-(1, 'ROLL', 'Rick', 1, 'RickR', '4m_N@/Gn-G1v_U_uP'),
 (3, 'SMITH', 'Lili-Rose', 5, 'LiliRS', 'K0u1Z_N'),
 (4, 'OUAGOUNE', 'Tomas', 6, 'TomasO', 'Tshutshu'),
 (5, 'GOLDSTAR', 'Sam', 7, 'SamG', 'G0lDsT4r'),
 (6, 'MOMAH', 'Brigitte', 8, 'BrigitteM', 'W0uTsh1'),
 (7, 'CYRIAL-LIGNIQUE', 'Sissy', 9, 'SissyCL', 'C_kr0k-n'),
 (8, 'PÉKINOIS', 'Lou', 10, 'LouP', 'S1T-P/PL'),
-(9, 'CRISE', 'Jésus', 11, 'JesusC', 'AnCpQiPmf@'),
 (10, 'TRISTE', 'Jésus', 12, 'JesusT', '@nCpQcMiPMF-');
 
 -- --------------------------------------------------------
@@ -101,7 +99,7 @@ CREATE TABLE IF NOT EXISTS `equipe` (
   `id_categorie` int(11) UNSIGNED NOT NULL,
   PRIMARY KEY (`id`),
   KEY `id_categorie` (`id_categorie`)
-) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8;
 
 --
 -- Déchargement des données de la table `equipe`
@@ -136,7 +134,7 @@ CREATE TABLE IF NOT EXISTS `joueur` (
   `mdp_joueur` varchar(25) NOT NULL,
   PRIMARY KEY (`id`),
   KEY `id_equipe` (`id_equipe`)
-) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=utf8;
 
 --
 -- Déchargement des données de la table `joueur`
@@ -177,7 +175,7 @@ CREATE TABLE IF NOT EXISTS `president` (
 --
 
 INSERT INTO `president` (`id`, `nom_pres`, `prenom_pres`, `identifiant_pres`, `mdp_pres`) VALUES
-(1, 'ZEMMOUR', 'Eric', 'EricZ', 'Ben_Voyons');
+(1, 'Musk', 'Elon', 'MuskElon', 'Mylyard2reue_');
 
 --
 -- Contraintes pour les tables déchargées
