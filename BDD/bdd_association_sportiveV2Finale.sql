@@ -66,7 +66,7 @@ CREATE TABLE IF NOT EXISTS `entraineur` (
   `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `nom_ent` varchar(25) NOT NULL,
   `prenom_ent` varchar(25) NOT NULL,
-  `id_equipe` int(11) UNSIGNED NOT NULL,
+  `id_equipe` int(11) UNSIGNED DEFAULT NULL,
   `identifiant_ent` varchar(25) NOT NULL COMMENT 'Pour le login uniquement',
   `mdp_ent` varchar(25) NOT NULL,
   PRIMARY KEY (`id`),
