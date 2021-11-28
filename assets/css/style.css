@@ -125,7 +125,9 @@ legend{
   position: fixed;
   width: 100%;
   z-index: 99;
-  background-color: #fff;
+  background-color: #FF8E00;
+  color : #FFFFFF;
+  height: 40px;
 }
 
 .espace-membre{
