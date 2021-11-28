@@ -17,7 +17,7 @@ session_start();
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <script src="assets/js/script.js" type="text/javascript"></script>
-    <title>Association sportive</title>
+    <title>À la raquette</title>
   </head>
 
   <body>
@@ -41,9 +41,23 @@ session_start();
             <a class="nav-link" href="#contact-titre">Contact</a>
           </li>
           <!-- Button trigger modal -->
-          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Connexion</button>
+          <?php
+            if (!empty($_SESSION['log']['identifiant']) && array_key_exists('identifiant', $_SESSION['log']) && is_string($_SESSION['log']['identifiant']) && !empty($_SESSION['log']['password']) && array_key_exists('password', $_SESSION['log']) && is_string($_SESSION['log']['password']))
+            {
+          ?>
+            <a href="templates/espace_utilisateur.php" class="btn btn-primary">Espace utilisateur</a>
+          <?php
+            }
+            else
+            {
+          ?>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Connexion</button>
+          <?php
+            }
+          ?>
         </ul>
       </nav>
+      <h1 class = "header_title">À la raquette</h1>
     </header>
 
     <main id="main-index">
@@ -102,8 +116,8 @@ session_start();
               include 'templates/block_equipe.php';
 
 
-              for ($i=0; $i < $nbr_equipe; $i++) { 
-                echo 
+              for ($i=0; $i < $nbr_equipe; $i++) {
+                echo
                 '
                 <div class="equipe">
                   <h3 class="titre-equipe">'.$tab_nom_entraineur_et_equipe[$i]["nom_equipe"].'<span class="info-bulle">Équipe</span></h3>
@@ -121,7 +135,7 @@ session_start();
               }
 
               ?>
-              
+
             </div>
           </div>
           <button id="bouton-plus-equipe" type="button">Voir plus</button>
@@ -188,7 +202,7 @@ session_start();
         break;
       }
       else {
-        // dans les tableaux $identifiants et $mdps ajoute la variable $data des clés "identifiant_pres" et "mdp_pres" 
+        // dans les tableaux $identifiants et $mdps ajoute la variable $data des clés "identifiant_pres" et "mdp_pres"
         $identifiants["president"][] = $data["identifiant_pres"];
         $mdps["president"][] = $data["mdp_pres"];
         $nom["president"][] = $data["nom_pres"];
@@ -229,10 +243,10 @@ session_start();
     $password_utilisateur = null;
 
 
-    // boucle pour parcourir le tableau $identifiants 
+    // boucle pour parcourir le tableau $identifiants
     foreach ($identifiants as $key => $value) {
       foreach ($value as $key1 => $value1) {
-        
+
         // test si la valeur du POST de clé "identifiant" correspond à $value1 du tableau $identifiants
         if ($_POST['identifiant'] === $value1) {
           // ajoute les deux clés dans des variables
@@ -244,7 +258,7 @@ session_start();
       }
     }
 
-    // boucle pour parcourir le tableau $mdps 
+    // boucle pour parcourir le tableau $mdps
     foreach ($mdps as $key => $value) {
       foreach ($value as $key1 => $value1) {
 
@@ -260,11 +274,11 @@ session_start();
     // si on n'a pas encore récupéré la saisie de l'utilisateur, et que sa saisie est bien existante et sous forme de chaine...
     if (($identifiant_utilisateur === null || $password_utilisateur === null) && !empty($_POST) && array_key_exists('identifiant', $_POST) && array_key_exists('password', $_POST) && is_string($_POST['identifiant']) && is_string($_POST['password'])) {
       // test des clés des deux tableaux $identifiants et $mdps
-      if ($cle_nom === $cle_password && $cle_type_nom === $cle_type_password) {
+      if ($cle_nom === $cle_password && $cle_type_nom === $cle_type_password && !is_null($cle_nom) && !is_null($cle_password) && !is_null($cle_type_nom) && !is_null($cle_type_password)) {
         // on récupère la saisie
         $identifiant_utilisateur = htmlspecialchars($_POST["identifiant"]);
         $password_utilisateur = htmlspecialchars($_POST["password"]);
-  
+
         // on déclare 3 variables de session
         $_SESSION['log'] = [
           "identifiant" => $identifiant_utilisateur,
@@ -276,15 +290,15 @@ session_start();
 
         // on redirige l'utilisateur vers l'espace utilisateur
         echo "<script type='text/javascript'>window.location.replace('templates/espace_utilisateur.php');</script>";
-        
+
       }
     }
 
     // TODO
-    // 
+    //
     // si l'utilisateur est déjà connecté, il faudrait remplacer le bouton "connexion" par "espace utilisateur" sur la page d'accueil
     // (en l'état, il est possible de se reconnecter alors qu'on l'est déjà...)
-    // 
+    //
     // afficher des erreurs en cas de saisie incorrecte du formulaire de connexion (dans la fenêtre modale)
 
     ?>

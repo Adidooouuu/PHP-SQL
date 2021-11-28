@@ -23,7 +23,7 @@ session_start();
         <?php
         // affiche un message de "bienvenue" personnalisé en fonction du nom et prenom sauvegardé dans la SESSION
         echo '<p class="espace-membre espace-membre-flex">Bienvenue ' . $_SESSION['log']['prenom_utilisateur'] . ' ' . $_SESSION['log']['nom_utilisateur'] . '</p>';
-        // test le "type_utilisateur" de la SESSION et affiche un message en conséquence 
+        // test le "type_utilisateur" de la SESSION et affiche un message en conséquence
         if ($_SESSION['log']['type_utilisateur'] === "president") {
           echo '<p class="espace-membre espace-membre-flex">Président</p>';
         } else if ($_SESSION['log']['type_utilisateur'] === "entraineur") {
@@ -32,7 +32,10 @@ session_start();
           echo '<p class="espace-membre espace-membre-flex">Joueur</p>';
         }
         ?>
-        <button type="button" class="btn btn-primary btn_primary_membre espace-membre-flex">Déconnexion</button>
+        <div class="to_flex_end">
+          <a href="../index.php" class="btn btn-primary btn_primary_membre espace-membre-flex">Accueil</a>
+          <a href="deconnexion.php" class="btn btn-primary btn_primary_membre espace-membre-flex">Déconnexion</a>
+        </div>
       </nav>
     </header>
     <main>
@@ -319,7 +322,7 @@ session_start();
               </form>
               <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
             </div>
-            
+
         </section>
         ';
         }

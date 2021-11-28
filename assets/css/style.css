@@ -72,7 +72,7 @@ legend{
 
 #main-index{
   width: 100%;
-  min-width: auto; 
+  min-width: auto;
   max-width: 100%;
 }
 
@@ -85,6 +85,18 @@ legend{
   width: 100%;
   min-height: 100vh;
   margin : auto;
+}
+
+.header_title
+{
+  background : white;
+  position : absolute;
+  top : 50%;
+  left : 50%;
+  transform: translate(-50%, -50%);
+  text-align : center;
+  padding : 1rem;
+  border-radius : 15px;
 }
 
 .nav
