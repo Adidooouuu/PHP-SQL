@@ -210,7 +210,7 @@ session_start();
             </div>
 
             <div class="formulaire_ajout_retrait_entraineur">
-              <form action="espace_utilisateur.php" method="post">
+              <form action="ajout_entraineur.php" method="post">
                 <fieldset>
                   <legend>Ajout d\'entraineur</legend>
                   <div class="nom_entraineur">
@@ -234,17 +234,27 @@ session_start();
               </form>
               <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
               <hr>
-              <form action="espace_utilisateur.php" method="post">
+              <form action="suppression_entraineur.php" method="post">
                 <fieldset>
                   <legend>Retrait d\'entraineur</legend>
                   <div class="entraineur">
                     <label for="entraineur">Nom de l\'entraineur<span class="red">*</span> : </label>
                     <select class="entraineur" name="entraineur" id="nom_de_l_entraineur" required>
-                      <option value="">&nbsp;</option>
-                      <option value="nom_entraineur_1">entraineur 1</option>
-                      <option value="nom_entraineur_2">entraineur 2</option>
-                      <option value="nom_entraineur_3">entraineur 3</option>
-                      <option value="nom_entraineur_4">entraineur 4</option>
+                      <option value="">&nbsp;</option>';
+                      // ici on boucle les entraineurs
+                      while ($data_entraineur = $requete_entraineur->fetch()) {
+                        if (!$data_entraineur) {
+                          // s'il y en a aucun on affiche cette erreur
+                          echo '<option>La liste des joueurs n\'existe pas ou est vide.</option>';
+                          break;
+                        }
+                        else {
+                          // sinon on affiche prénom / nom de l'entraineur dans la liste d'options, avec son id en tant que value (unique)
+                          // que l'on va récupérer ensuite avec $_POST['entraineur']
+                          echo "<option value=".$data_entraineur["id"].">".$data_entraineur["prenom_ent"]." ".$data_entraineur["nom_ent"]."</option>";
+                        }
+                      }
+                      echo '
                     </select>
                   </div>
                   <div class="mot_de_passe_president">
@@ -256,6 +266,7 @@ session_start();
               </form>
               <p class="avertissements">(<span class="red">*</span>) champs obligatoire</p>
             </div>
+            
         </section>
         ';
         }
