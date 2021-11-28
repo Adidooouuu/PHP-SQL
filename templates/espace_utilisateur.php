@@ -4,7 +4,7 @@ session_start();
   ini_set("display_errors", "Off");
   ini_set("log_errors", "On");
   ini_set("error_log", dirname(__file__)."/../logs/log_error_php.txt");
-
+  var_dump($_SESSION);
 ?>
 
 <!DOCTYPE html>
@@ -33,11 +33,18 @@ session_start();
       include 'connexion.php';
 
       if (!empty($_SESSION['log']['type_utilisateur']) && array_key_exists('type_utilisateur', $_SESSION['log']) && is_string($_SESSION['log']['type_utilisateur'])) {
-
         // pour ENTRAINEUR
         if ($_SESSION['log']['type_utilisateur'] === "entraineur") {
+
+          $nom_ent = $bdd->query( 'SELECT * from entraineur WHERE identifiant_ent="'.$_SESSION['log']['identifiant'].'"'); //est censé prendre son nom
+          $prenom_ent = $bdd->query('SELECT * FROM entraineur WHERE identifiant_ent="'.$_SESSION['log']['identifiant'].'"'); //idem pour son prénom
+          //Du coup, pour dépanner si ça bugue, ↓
           echo '
           <section id="entraineur">
+          <p>
+            Bienvenue<br>' .$_SESSION['log']['identifiant']."<br>" .$_SESSION['log']['type_utilisateur'].
+            '
+          </p>
             <form class="form_team_management" action="espace_utilisateur.php" method="post">
               <fieldset>
                 <legend>Gestion de l\'équipe</legend>
@@ -103,9 +110,15 @@ session_start();
           // idem pour les entraineurs
           $requete_entraineur = $bdd->query('SELECT * FROM entraineur');
 
+          $nom_pres = $bdd->query( 'SELECT * from president WHERE identifiant_pres="'.$_SESSION['log']['identifiant'].'"'); //est censé prendre son nom
+          $prenom_pres = $bdd->query('SELECT * FROM president WHERE identifiant_pres="'.$_SESSION['log']['identifiant'].'"'); //idem pour son prénom
+
           echo '
           <section id="president">
-
+          <p>
+            Bienvenue<br>' .$_SESSION['log']['identifiant']."<br>" .$_SESSION['log']['type_utilisateur'].
+            '
+          </p>
             <form class="form_president" action="espace_utilisateur.php" method="post">
               <fieldset>
                 <legend>Création d\'équipe</legend>
