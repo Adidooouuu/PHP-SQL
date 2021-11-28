@@ -107,6 +107,7 @@ session_start();
           // on récupère entièrement la table des joueurs pour pouvoir voir la liste
           $requete_joueur = $bdd->query('SELECT * FROM joueur');
           // idem pour les entraineurs
+          $requete_ent = $bdd->query('SELECT * FROM entraineur');
           $requete_entraineur = $bdd->query('SELECT * FROM entraineur');
           // idem pour les catégories
           $requete_categorie = $bdd->query('SELECT * FROM categorie');
@@ -151,8 +152,8 @@ session_start();
                   <select class="entraineur" name="entraineur" id="nom_entraineur" required>
                     <option value="">&nbsp;</option>';
                     // ici on boucle les entraîneurs
-                    while ($data_entraineur = $requete_entraineur->fetch()) {
-                      if (!$data_entraineur) {
+                    while ($data_ent = $requete_ent->fetch()) {
+                      if (!$data_ent) {
                         // s'il y en a aucun on affiche cette erreur
                         echo '<option>La liste des entraîneurs n\'existe pas ou est vide.</option>';
                         break;
@@ -160,7 +161,7 @@ session_start();
                       else {
                         // sinon on affiche prénom / nom de l'entraîneur dans la liste d'options, avec son id en tant que value (unique)
                         // que l'on va récupérer ensuite avec $_POST['entraineur']
-                        echo "<option value=".$data_entraineur["id"].">".$data_entraineur["prenom_ent"]." ".$data_entraineur["nom_ent"]."</option>";
+                        echo "<option value=".$data_ent["id"].">".$data_ent["prenom_ent"]." ".$data_ent["nom_ent"]."</option>";
                       }
                     }
                     echo '</select>
